@@ -1,0 +1,817 @@
+{
+  "meta": {
+    "title": "BIFF Square (BIFF광장) | Jung-gu, Busan · Home of the Busan International Film Festival & Star Road",
+    "description": "The complete guide to BIFF Square (BIFF광장): a cinematic landmark in Nampo-dong, Jung-gu, Busan, right next to Gukje Market and Bosudong Bookstore Street. The Busan International Film Festival (then PIFF) was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and every October it becomes the red-carpet stage for the festival's opening and closing ceremonies. Opening hours, how to get there, history, photo spots and visitor reviews — all in one place."
+  },
+  "header": {
+    "siteName": "BIFF Square",
+    "home": "Home",
+    "visit": "Visit",
+    "transport": "Getting There",
+    "lodging": "Stay",
+    "history": "History",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "common": {
+    "changeLanguage": "Change language",
+    "toggleTheme": "Toggle theme"
+  },
+  "nonprofitBanner": {
+    "text": "This is an independent, non-profit guide compiled by travel enthusiasts to provide the most objective information about visiting BIFF Square. It is free, and we are affiliated with no organization.",
+    "dataSource": "All attraction information on this site is cross-checked against public materials from the Korea Tourism Organization (VisitKorea), the Busan Metropolitan City and Jung-gu District Office, with no commercial recommendations."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "So that every traveler coming to Busan can experience this street corner that gave birth to the Busan International Film Festival, we have organized scattered official information into this guide — only to give you the purest film culture, Star Road and urban stroll."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "region": "Busan Metropolitan City",
+    "city": "Jung-gu",
+    "current": "BIFF Square"
+  },
+  "stickyNav": {
+    "facts": "Key Facts",
+    "etiquette": "Visitor Etiquette",
+    "route": "Half-Day Route",
+    "transport": "Getting There",
+    "lodging": "Stay",
+    "visit": "Visit Tips",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "BIFF Square (BIFF광장)",
+    "subtitle": "A cinematic urban landmark in Nampo-dong, Jung-gu, Busan. The Busan International Film Festival was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and every October it becomes the red-carpet stage for the festival's opening and closing ceremonies — one of Korea's most representative film-themed street landmarks.",
+    "rating": "4.1 (19,981)",
+    "reviewCount": "19,981 reviews",
+    "hours": "Open 24 hours (public square)",
+    "openMaps": "View location on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7",
+    "tags": ["Film culture landmark", "Star Road of filmmakers", "Free · open public space"],
+    "routeCta": {
+      "label": "Plan your route",
+      "href": "#transport"
+    },
+    "historyCta": {
+      "label": "Learn its story",
+      "href": "#history"
+    },
+    "quickFacts": [
+      { "icon": "🎬", "label": "Highlights", "value": "Star Road" },
+      { "icon": "🆓", "label": "Admission", "value": "Free" },
+      { "icon": "🕐", "label": "Open", "value": "24 hours" }
+    ],
+    "navCta": { "label": "📍 Navigate", "href": "#transport" },
+    "photoCta": { "label": "📸 Photo spots", "href": "#gallery" },
+    "liveInfo": { "weather": "Current weather", "sunset": "Today's sunset" },
+    "sunsetPlanner": {
+      "eyebrow": "Golden Hour Calculator · Light Tool",
+      "title": "Based on today's sunset, we suggest arriving about 60 minutes earlier to catch both the softest diffuse light and the blue-hour sky — ideal for photographing the Star Road handprints and the Nampo-dong streetscape.",
+      "note": "The square is surrounded by tall buildings and neon; light is warmest from afternoon to dusk. On festival weekends (October) or holidays, allow extra time to avoid the crowds.",
+      "seaGlare": "Night-light note: BIFF Square sits at the commercial heart of Nampo-dong. After dark, neon and shop lights are dense, making it a golden window for cinematic street shots and portraits; for handheld night photography, raise the ISO or use stabilization.",
+      "arriveLabel": "Suggested arrival",
+      "blueHourLabel": "Blue hour",
+      "lightCaption": "Light calculated live by Open-Meteo"
+    }
+  },
+  "quickFactsDashboard": {
+    "title": "BIFF Square at a Glance · Data Board",
+    "subtitle": "A few numbers to understand this street corner that gave birth to the Busan International Film Festival.",
+    "items": [
+      { "icon": "🎬", "label": "Founded / Founded", "value": "1996", "note": "The Busan International Film Festival (then PIFF) was founded in 1996; the BIFF Square area has since become one of the birthplaces of Korean film culture." },
+      { "icon": "🌟", "label": "Star Road / Star Road", "value": "100+ filmmakers", "note": "The square is paved with the handprints and footprints of hundreds of directors and actors — Korea's most recognizable Star Road of filmmakers." },
+      { "icon": "🏆", "label": "Festival / Festival", "value": "Major Asian festival", "note": "The Busan International Film Festival is one of Asia's most influential film festivals; BIFF Square has long been the core stage for its red carpet and fan gatherings." },
+      { "icon": "🎞️", "label": "Role / Role", "value": "Red-carpet stage", "note": "Every October during the festival, the square becomes the red-carpet stage for opening and closing ceremonies, where star handprints and the carpet form a highly cinematic street scene." },
+      { "icon": "📍", "label": "Location / Location", "value": "35°06′N, 129°02′E", "note": "Plus Code: 32XH+7M Busan. At 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street." },
+      { "icon": "🚇", "label": "Nearby / Nearby", "value": "Market · Bookstreet", "note": "Organically linked with Nampo-dong, Gukje Market, Bosudong Bookstore Street and the 40 Steps — the starting point for Busan's modern history and culture trail." }
+    ]
+  },
+  "hiddenRules": {
+    "title": "Tips for Visiting the City Square",
+    "subtitle": "BIFF Square is an open street landmark at the commercial heart of Nampo-dong. Think through safety, timing and budget, and the experience upgrades from 'rushing check-ins' to 'relaxed, safe play'.",
+    "highlights": [
+      { "icon": "👜", "label": "Secure belongings", "value": "Mind your valuables", "note": "The square and surrounding district are crowded; pickpocket risk is relatively high. Keep phones and wallets in front pockets, wear bags in front, and stay alert at night." },
+      { "icon": "🚧", "label": "Festival control", "value": "Road closures in Oct", "note": "During the October festival, the square and surrounding roads often see temporary traffic control and crowd management. Follow on-site guidance and allow extra time." },
+      { "icon": "🌧️", "label": "Weather & routine", "value": "Bring rain gear & water", "note": "Busan is hot and rainy in summer with limited shade at the square; carry rain gear and drinking water, and protect against sun and heat at midday." }
+    ],
+    "panels": [
+      {
+        "q": "Is there an admission fee for BIFF Square?",
+        "a": "BIFF Square is an open public space, free all year and accessible 24 hours with no gate and no reservation — visit anytime (keep quiet at night and respect local residents).",
+        "items": ["The public square area is open 24 hours, anytime.", "The Star Road handprints are freely viewable all day."]
+      },
+      {
+        "q": "What is different during the festival?",
+        "a": "Every October during the Busan International Film Festival, the square becomes the red-carpet stage for opening and closing ceremonies, with carpet, star handprint unveilings and crowd control, and some surrounding roads close temporarily. If you come specifically for the carpet, check the day's schedule and control info in advance.",
+        "items": ["Red carpet and star events concentrate in the October festival.", "Crowds and road closures are heavier in festival time; prefer public transit."]
+      },
+      {
+        "q": "Is it convenient with children or seniors?",
+        "a": "The square lies in the flat Nampo-dong commercial area, generally level and accessibility-friendly, suitable for families and slow strolls with seniors; but holidays and the festival get crowded — avoid peaks, hold children's hands and mind your belongings."
+      }
+    ]
+  },
+  "complianceGuide": {
+    "title": "BIFF Square · Visitor Etiquette & Public Environment Guide",
+    "subtitle": "This is both visitors' film landmark and a street Busan citizens walk through daily. Following these rules is respect for film culture and for others.",
+    "rules": [
+      {
+        "badge": "🚮",
+        "title": "Take your trash with you",
+        "text": "The square is in a commercial district with limited bins. Bring a small bag and take everything away, especially cigarette butts, plastics and food waste, keeping the corner tidy."
+      },
+      {
+        "badge": "🔇",
+        "title": "Quiet remembrance & courtesy",
+        "text": "Star Road carries the shared memory of filmmakers and fans. Lower your voice and don't blast music, leaving the space for those taking photos and pausing."
+      },
+      {
+        "badge": "🚭",
+        "title": "Mind no-smoking & fire rules",
+        "text": "Some arcades and neighboring buildings are no-smoking zones. Follow on-site no-smoking and fire signs; do not smoke among wooden fixtures or crowds."
+      },
+      {
+        "badge": "🎬",
+        "title": "Respect film culture",
+        "text": "Handprint and footprint plates and the red-carpet marker are memorial public art. Do not step on, carve or misbehave on them; keep the film-culture space solemn and alive."
+      }
+    ]
+  },
+  "higashiyamaRoute": {
+    "title": "Custom Itinerary: BIFF Square Half-Day Loop",
+    "subtitle": "Not just 'who it suits', but a walkable half-day route. Centered on Star Road, it links the red carpet, Gukje Market and Bosudong Bookstore Street.",
+    "steps": [
+      { "title": "[Start] Star Road & handprint plates", "meta": "Core experience · ~40 min", "text": "First be surrounded by the handprints and footprints of over a hundred filmmakers on Star Road, recognizing familiar names and leaving the soft morning or dusk light for this film shrine.", "tips": ["Star Road is open and level; morning and dusk light are best with fewer crowds."] },
+      { "title": "[Main] Red carpet & square marker", "meta": "Film experience · ~30 min", "text": "Walk to the red-carpet stage and the BIFF marker wall, understanding the square's original intent as the festival's opening/closing stage and its cinematic streetscape.", "tips": ["The carpet area draws fans year-round; queue courteously."] },
+      { "title": "[Extend] Gukje Market food tour", "meta": "Local life · ~60 min", "text": "Walk to the adjacent Gukje Market, taste rice cakes, fish cakes and Korean snacks, feeling film culture and everyday bustle together.", "tips": ["Market food is dense; graze lightly across many stalls."] },
+      { "title": "[Supply] Bosudong Bookstreet & 40 Steps", "meta": "Culture stop · ~40 min", "text": "Hunt used books and crafts on Bosudong Bookstore Street, then overlook Nampo-dong from the 40 Steps, collecting history and contemporary culture together.", "tips": ["Bookstreet suits slow browsing; old books and film cameras are popular themes."] },
+      { "title": "[End] Yongdusan Park or return", "meta": "Wrap · ~60 min+", "text": "If energy allows, climb Yongdusan Park and Busan Tower for the harbor night view; otherwise take the subway / bus back, completing a 'handprints + carpet + market' half-day package.", "tips": ["Yongdusan night view is superb; go after dusk."] }
+    ],
+    "disclaimer": "The route emphasizes a closed loop that 'works even if you just follow it'; if you only want Star Road, keep the first two segments and treat the market and bookstreet as flexible add-ons."
+  },
+  "intro": {
+    "title": "Getting to Know BIFF Square",
+    "description": "BIFF Square (BIFF광장) lies at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street — an urban film-culture landmark that gave birth to the Busan International Film Festival. The Busan International Film Festival (then PIFF) was founded here in 1996, and in 2011, as the festival's acronym changed from PIFF to BIFF, the square was redeveloped and renamed BIFF Square. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and every October it becomes the red-carpet stage for the festival's opening and closing ceremonies — one of Korea's most representative film-themed street landmarks.",
+    "visitGuide": {
+      "title": "Visit Guide",
+      "eyebrow": "Practical Planning",
+      "description": "BIFF Square is a free, open public space with no gate and no reservation; the square area is accessible 24 hours. The ideal approach is usually not 'wander by day' but reverse-planning around light: come at dawn or dusk for the best light on Star Road, and prefer weekdays for quiet photos. Facilities are restrained and commercial feel is low — which is exactly its charm.",
+      "items": [
+        "Best at dawn or dusk: Nampo-dong light is softest then, and handprints with the carpet frame best.",
+        "Best viewpoints are the middle of Star Road and the BIFF marker wall.",
+        "About a 5 min walk from Nampo Station (Subway Line 1), Exit 7, to the square.",
+        "Almost no commercial supply at the square; water, restrooms and breaks are better in the surrounding district."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Star Road of handprints and footprints from over a hundred filmmakers — Korea's most recognizable film landmark",
+        "Red-carpet stage of the Busan International Film Festival (BIFF), a film carnival every October",
+        "Next to Gukje Market and Bosudong Bookstore Street, where film culture meets everyday bustle",
+        "Linked with the 40 Steps and Yongdusan Park, forming Busan's modern history and culture trail",
+        "Free, open public space accessible 24 hours — stroll and snap anytime"
+      ]
+    }
+  },
+  "transportSection": {
+    "title": "Transportation & Getting Here",
+    "subtitle": "Combine arriving in Busan, city transfers, walking/cycling, parking and charging into one clear structure for planning your BIFF Square trip.",
+    "overviewTitle": "After arriving in Busan",
+    "overviewText": "BIFF Square is at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street — a representative film-culture landmark of Busan. The easiest long-distance option is KTX from Seoul to Busan Station, about 2.5 hours; once in the city, it is about a 5 min walk from Nampo Station (Subway Line 1), Exit 7. BIFF Square sits in the Nampo-dong district and is reachable on foot from the station.",
+    "overviewText2": "BIFF Square is an open street corner with no gate. Plan transport, parking and walking together — especially with seniors, children or luggage, parking at a public lot then walking in saves a lot of hassle.",
+    "arrivalTitle": "Remember before departure",
+    "arrivalItems": [
+      "BIFF Square is in Nampo-dong; about a 5 min walk from Nampo Station (Subway Line 1), Exit 7.",
+      "Several public parking lots surround the square; they fill fast on peak weekends — arrive early or prefer transit.",
+      "Crowds are higher during the festival (October); strongly prefer public transit or off-peak visits."
+    ],
+    "modes": [
+      {
+        "label": "Subway (Busan Line 1 · Nampo Stn)",
+        "icon": "🚇",
+        "title": "Subway direct to Nampo",
+        "description": "Easiest for most travelers; transfer to Busan Line 1 to Nampo Station from Busan Station or Seomyeon — the classic way to BIFF Square.",
+        "details": [
+          "From Busan Station take Busan Line 1 to Nampo Station, about 15–20 min.",
+          "Exit 7 of Nampo Station, follow district signs about 5 min walk to the square.",
+          "Use T-money / transit card for easy bus and taxi connections."
+        ],
+        "steps": [
+          { "n": "1", "t": "Take Busan Line 1 to Nampo Station." },
+          { "n": "2", "t": "From Exit 7, follow district signs about 5 min." },
+          { "n": "3", "t": "Reach Star Road and the BIFF marker wall." }
+        ]
+      },
+      {
+        "label": "Public transit (city bus / transfer)",
+        "icon": "🚌",
+        "title": "City bus to Nampo-dong",
+        "description": "Flexible; take a city tourist bus or trunk bus to Nampo-dong / Gukje Market, then walk to BIFF Square.",
+        "details": [
+          "From Busan Station or Seomyeon take a city bus to Nampo-dong / Gukje Market, about 20–30 min.",
+          "After arriving, walk to BIFF Square about 3–8 min.",
+          "Buses accept T-money; use a map app for real-time arrivals."
+        ],
+        "steps": [
+          { "n": "1", "t": "Take a city bus to Nampo-dong / Gukje Market." },
+          { "n": "2", "t": "Walk to BIFF Square." },
+          { "n": "3", "t": "Enter the square via the Star Road entrance." }
+        ]
+      },
+      {
+        "label": "Nampo Station (walk 5 min)",
+        "icon": "🚉",
+        "title": "Nearest station, hidden option",
+        "description": "Nampo Station is the closest subway to BIFF Square; a 5 min walk reaches Star Road — best for light packers who want to see it first.",
+        "details": [
+          "Nampo Station is on Busan Line 1 with frequent trains.",
+          "From the platform, follow district signs about 5 min to the main sights.",
+          "Dawn and weekdays are best to avoid transfer and tourist crowds."
+        ],
+        "steps": [
+          { "n": "1", "t": "Alight at Nampo Station by subway." },
+          { "n": "2", "t": "Follow district signs about 5 min." },
+          { "n": "3", "t": "Reach Star Road and the BIFF marker wall." }
+        ]
+      },
+      {
+        "label": "Driving (parking / charging)",
+        "icon": "🅿️",
+        "title": "Via highway · nearby parking",
+        "description": "Good with children, seniors, lots of luggage or a Busan tour; several public and commercial lots surround the square.",
+        "details": [
+          "Set destination to 'BIFF 광장' or address '부산광역시 중구 구덕로 58-1'.",
+          "Public and mall lots have more spaces but fill on peak weekends.",
+          "Some public lots have EV chargers; district is crowded with cars and people — drive slowly."
+        ],
+        "steps": [
+          { "n": "1", "t": "Navigate to 'BIFF Square'." },
+          { "n": "2", "t": "Park in a public / mall lot, walk in." },
+          { "n": "3", "t": "Avoid the 11:00–19:00 peak to save parking time." }
+        ]
+      },
+      {
+        "label": "Taxi / ride-hail",
+        "icon": "🚕",
+        "title": "Door-to-door",
+        "description": "Easiest with luggage, children/seniors or early / late arrivals.",
+        "details": [
+          "Taxi from Busan Station or Seomyeon to BIFF Square about 10–20 min, meter based.",
+          "Walk from the square surroundings into the square.",
+          "Taxis queue on peak days; reserve via a local app (e.g. Kakao T)."
+        ],
+        "steps": [
+          { "n": "1", "t": "Call a car via Kakao T etc." },
+          { "n": "2", "t": "Tell the driver 'BIFF 광장'." },
+          { "n": "3", "t": "Alight near the square, walk in." }
+        ]
+      },
+      {
+        "label": "Walking (neighborhood)",
+        "icon": "🚶",
+        "title": "From Nampo-dong to the square",
+        "description": "If already in Nampo-dong or near Gukje Market, walking is the natural way to observe the district and film landmark.",
+        "details": [
+          "From Nampo-dong or Gukje Market, follow signs about 3–10 min to the square.",
+          "Pass shops, neon and handprint landmarks along the way — browse as you walk.",
+          "Streets are level; wear comfortable shoes and watch children and belongings."
+        ]
+      },
+      {
+        "label": "Cycling / walking greenway",
+        "icon": "🚲",
+        "title": "Harbor & district stroll",
+        "description": "The most relaxing way to feel Busan's harbor and film-district atmosphere.",
+        "details": [
+          "Nampo-dong is gentle; walk to link the square, Gukje Market and Bosudong Bookstreet.",
+          "Park bikes at designated racks; do not ride into the pedestrian square or crowded areas.",
+          "About a 5 min walk from Nampo Station to the square, district all the way."
+        ]
+      }
+    ],
+    "parking": {
+      "title": "Parking & Charging Overview",
+      "note": "Several public and mall parking lots surround BIFF Square; below are the nearest main options. Rates and availability vary by season and time — follow on-site signs.",
+      "colOption": "Option",
+      "colDistance": "Distance",
+      "colPrice": "Price",
+      "options": [
+        { "name": "Nampo-dong public parking", "distance": "about 100–300 m (to square)", "price": "Public paid, fills in peak" },
+        { "name": "Gukje Market parking tower", "distance": "about 200–500 m", "price": "Mall / paid, more spaces but tight in peak" },
+        { "name": "Surrounding street parking", "distance": "about 200–500 m", "price": "Roadside / small lots, few spaces, easier off-peak" },
+        { "name": "Yongdusan Park parking", "distance": "about 500–800 m", "price": "Attraction annex parking, tight on holidays" },
+        { "name": "Drop-off (near square)", "distance": "about 50–100 m", "price": "Short stop only, no spaces" }
+      ],
+      "disclaimer": "Square roads are extremely congested on holidays and festival time; do not block bus and fire lanes. EV chargers are common at Nampo-dong malls and public lots; rates and limits may change — check posted signs."
+    },
+    "driverFaqTitle": "Transport Q&A",
+    "driverFaq": [
+      { "q": "Is there parking near BIFF Square?", "a": "Several public and mall lots surround the square, such as Nampo-dong public parking and the Gukje Market parking tower, within walking distance. They fill fast on peak weekends — arrive early or prefer transit." },
+      { "q": "What is the nearest parking?", "a": "Nampo-dong public parking is about 100–300 m away, the closest to the square; the Gukje Market parking tower is about 200–500 m, more spaces but tight in peak." },
+      { "q": "Is there roadside parking nearby?", "a": "Very little. Square roads are narrow and congested on holidays; use proper lots and public transit, no long roadside parking." },
+      { "q": "Is driving recommended for BIFF Square?", "a": "Unless parking is essential, driving is not advised. Weekends and festival time are very congested; walking or transit is smoother. If driving, park at a surrounding lot then walk in." },
+      { "q": "Do you recommend public transit?", "a": "Strongly. Take Busan Line 1 to Nampo Station, then walk about 5 min to the square. Address: 58-1 Gudeok-ro, Jung-gu, Busan, South Korea." },
+      { "q": "What is the best way to get here?", "a": "For stability and ease, transit is still best: Busan Line 1 to Nampo Station, walk in. If you must drive, treat parking and transfer as part of the trip, not 'park at the door'." }
+    ],
+    "localTipsTitle": "Practical tips",
+    "localTips": [
+      "Dawn and dusk remain the golden windows, but set your baseline as 'arrive 60 min before sunset' — best for Star Road handprints and the carpet.",
+      "Crowds are high on weekends and during the festival; allow buffer and off-peak time with kids or gear.",
+      "BIFF Square pairs best with Gukje Market, Bosudong Bookstreet and Yongdusan Park; a single stop underestimates its cultural value."
+    ],
+    "mapsCta": "View map & route",
+    "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7",
+    "bestTime": {
+      "title": "Best time to arrive",
+      "text": "BIFF Square is accessible all day, but the photo ceiling is the dawn and dusk light window. Arrive about 60 min before sunset; if weather is poor for photos, shift focus to Gukje Market food, Bosudong Bookstreet or the Yongdusan Park night view."
+    }
+  },
+  "officialManagement": {
+    "title": "About This Square",
+    "text": "BIFF Square lies at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan — a film-culture landmark grown from a former Nampo-dong street corner, maintained as public space by the Jung-gu District Office of Busan Metropolitan City. It has long been a shared urban living room where citizens walk through, fans make pilgrimages and tourists stroll, and is one of Busan's city cards as the 'city of film and harbor'."
+  },
+  "humanities": {
+    "title": "Humanities & Film Theme Research",
+    "subtitle": "Put the prehistory of the Busan International Film Festival, the square's renaming, and the memory of Star Road and the red carpet on one timeline to truly understand why this corner is more than 'a pretty square'."
+  },
+  "knowledge": {
+    "title": "BIFF Square's History & Origins",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Founding intent: born for Asian cinema",
+        "content": "In 1996, the Busan International Film Festival (then PIFF, Pusan International Film Festival) was founded in Busan — Korea's first international film event. The BIFF Square area has since become the core stage for the festival's opening/closing and fan gatherings, anchoring Busan's city positioning as the 'city of film'."
+      },
+      {
+        "id": "name",
+        "title": "The name 'BIFF': from PIFF to BIFF",
+        "content": "In 2011, the Busan International Film Festival changed its acronym from PIFF to BIFF (Busan International Film Festival), and the square was redeveloped and officially renamed 'BIFF Square' that same year. The name hides both the festival's growth story and Busan's cultural ambition toward the world."
+      },
+      {
+        "id": "starroad",
+        "title": "Star Road: filmmakers' handprint plates",
+        "content": "The square is paved with the handprints and footprints of over a hundred film directors and actors, forming the famous 'Star Road'. From international auteurs to Korean stars, their traces are permanently embedded in the pavement, letting ordinary visitors 'shake hands' with film history."
+      },
+      {
+        "id": "redcarpet",
+        "title": "Red-carpet stage: the spotlight of opening/closing",
+        "content": "Every October during the Busan International Film Festival, BIFF Square becomes the red-carpet stage for opening and closing ceremonies, where star handprint unveilings, fan cheers and the carpet轮流 take place — one of Korea's most cinematic street scenes."
+      },
+      {
+        "id": "market",
+        "title": "Symbiosis with Gukje Market",
+        "content": "BIFF Square is next to Busan's famous Gukje Market (국제시장). Film culture and everyday bustle meet here. After Star Road, turn around and dive into the market's rice cakes, fish cakes and old Busan flavors — a unique 'film + life' experience."
+      },
+      {
+        "id": "bosudong",
+        "title": "Bosudong Bookstreet & the 40 Steps",
+        "content": "A short walk from the square is Bosudong Bookstore Street — a literary district known for used books and crafts — and the 40 Steps (40계단), which witness the civilian migration history around the Korean War. Together with BIFF Square they string together Busan's modern history and cultural fabric."
+      },
+      {
+        "id": "busanfilm",
+        "title": "BIFF's standing in Asian cinema",
+        "content": "The Busan International Film Festival is one of Asia's most influential film festivals, with the spirit of 'Today's cinema, tomorrow's Asia', long supporting emerging directors and Asian cinema. As its core landmark, BIFF Square is the concrete starting point of this urban film ambition."
+      }
+    ],
+    "didYouKnow": {
+      "title": "Did you know?",
+      "text": "BIFF Square is not just a square but a street museum of Korean film culture — from the festival's 1996 founding, through the 2011 redevelopment and renaming, to the handprints of over a hundred filmmakers on Star Road, land and film memory are written into the same Nampo-dong corner."
+    }
+  },
+  "sitePlaques": {
+    "title": "Reading the On-Site Signs",
+    "subtitle": "What's worth reading slowly on site is often not the photo badge, but the official signs explaining 'why this corner is here'.",
+    "locationLabel": "Location",
+    "intro": "The readings below are based on BIFF Square introductions, Star Road notes and festival guides set by Busan Metropolitan City and Jung-gu District Office, turning information visible on site but not always read closely into understandable English.",
+    "items": [
+      {
+        "id": "monument",
+        "badge": "Square history sign",
+        "title": "BIFF Square & the festival",
+        "koTitle": "BIFF 광장 연혁",
+        "koTitleZh": "BIFF Square history",
+        "location": "Square main entrance",
+        "body": "These signs give the key background: the 1996 founding of the Busan International Film Festival (PIFF), and the meaning of the 2011 redevelopment and renaming to BIFF Square. Reading the signs is lesson one in using this film landmark."
+      },
+      {
+        "id": "signboard",
+        "badge": "Star Road guide (KO/EN)",
+        "title": "Handprint plates & Star Road",
+        "koTitle": "스타로드 안내",
+        "koTitleZh": "Star Road guide",
+        "location": "Star Road entrance",
+        "body": "The signs stress BIFF Square's status as a film-culture landmark and remind visitors that half the charm is the filmmakers' handprints, half is the real film history underfoot. They explain clearly 'why so many handprints'."
+      },
+      {
+        "id": "wooden",
+        "badge": "Red-carpet marker",
+        "title": "Opening/closing red-carpet stage",
+        "koTitle": "레드카펫 안내",
+        "koTitleZh": "Red-carpet marker",
+        "location": "Square carpet area",
+        "body": "The guide explains 'why this is the carpet stage'. Every October during the festival, star handprint unveilings and carpet ceremonies are held here; seeing it with Star Road, BIFF Square's design logic becomes clear: film glory and civic life coexist."
+      },
+      {
+        "id": "dongporu",
+        "badge": "Nampo-dong · Gukje Market marker",
+        "title": "Where film meets the street",
+        "koTitle": "남포동·국제시장",
+        "koTitleZh": "Nampo-dong · Gukje Market",
+        "location": "Square toward the market",
+        "body": "Erected by Jung-gu District Office, marking the link between BIFF Square and the adjacent Gukje Market. It reminds every visitor: this corner connects Busan's most fiery old commercial district with its most dazzling film culture."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "From the handprint plates of over a hundred filmmakers on Star Road and the red-carpet stage to the neon streetscape of Nampo-dong — the visual beauty of BIFF Square.",
+    "photoAlt": "BIFF Square",
+    "photoAlts": [
+      "Panorama of BIFF Square, with the handprint plates of over a hundred filmmakers spread across Star Road.",
+      "Quiet empty square at dawn, best for slow close-ups of the handprints.",
+      "Star Road in golden dusk light, handprint plates like a river of stars.",
+      "Close-up of the BIFF marker wall, red background with white text, highly cinematic.",
+      "Overhead of the red-carpet stage, laying out the festival carnival atmosphere.",
+      "Overhead view of the square and Nampo-dong district as an urban landscape.",
+      "Close-up of handprint plates, familiar international auteurs and Korean stars.",
+      "Warm family stroll on the square, good for slow family visits.",
+      "Blue-and-white guide signs, echoing the film-theme palette.",
+      "Classic composition using handprints as a lead-in to corner and skyline.",
+      "Star Road mid-section viewpoint, one of the most photogenic spots.",
+      "Nampo-dong neon and distant hills, gazing toward Busan harbor.",
+      "Warm dusk square, afterglow drawing golden glints on the pavement.",
+      "Handprint plates and carpet together, dawn to dusk best window.",
+      "Street scene featuring the Gukje Market gate, echoing everyday bustle.",
+      "High viewpoint capturing 'handprints – carpet – district – harbor' in one frame.",
+      "Night square lights, BIFF Square a quiet film corner after dark.",
+      "Warm-toned district path, showing the public space gently embraced by the city."
+    ],
+    "viewAll": "View location on Google Maps",
+    "showMore": "Show more photos",
+    "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback is available on Google Maps (external link).",
+    "featuredTitle": "Visitor Quotes",
+    "featuredSubtitle": "A few short lines that capture BIFF Square's character.",
+    "moreReviews": "View on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7",
+    "featured": [
+      {
+        "text": "Handprints of over a hundred filmmakers fill the pavement — on one side vivid film glory, on the other intimate everyday bustle. So photogenic.",
+        "source": "Independent traveler · Seoul"
+      },
+      {
+        "text": "A free, open film landmark just steps from the Nampo-dong district — Busan's most human corner.",
+        "source": "Photographer · Busan"
+      },
+      {
+        "text": "With kids slowly along Star Road, he kept finding familiar stars' handprints, and the seniors were at ease too.",
+        "source": "Family · Daejeon"
+      }
+    ],
+    "items": [
+      {
+        "name": "Minjun",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Visited at dawn; the handprint plates are super photogenic in backlight, and the moment in front of the carpet marker was silent — strongly recommend dusk, best light."
+      },
+      {
+        "name": "Seoyeon",
+        "date": "Apr 2026",
+        "rating": 5,
+        "text": "Star Road's composition is striking; about a 5 min walk from Nampo Station. Busan is by the sea with strong wind, bring a jacket."
+      },
+      {
+        "name": "Jihoon",
+        "date": "Mar 2026",
+        "rating": 4,
+        "text": "Worth it as a free public space; weekends get crowded, weekdays or early morning are more comfortable."
+      },
+      {
+        "name": "Ha-eun",
+        "date": "Feb 2026",
+        "rating": 5,
+        "text": "About a 5 min walk from Nampo Station to Star Road; the district along the way is pleasant, good for a half-day stroll."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "58-1 Gudeok-ro, Jung-gu, Busan, South Korea (Plus Code: 32XH+7M)",
+    "openMaps": "Open in Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7"
+  },
+  "footer": {
+    "siteName": "BIFF Square (BIFF광장)",
+    "rights": "© 2026 BIFF Square Guide — an independent non-profit attraction information project. All rights reserved.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "So that every traveler coming to Busan can experience this street corner that gave birth to the Busan International Film Festival, we have organized scattered official information into this guide — only to give you the purest film culture, Star Road and urban stroll."
+    },
+    "legalLinksTitle": "Privacy & Terms",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Reference Resources",
+    "mapsLabel": "Google Maps →",
+    "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7",
+    "officialLinksList": [
+      { "name": "Korea Tourism Organization (VisitKorea) · BIFF Square official Chinese guide", "url": "https://chinese.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=97697" },
+      { "name": "Korea Tourism Organization (VisitKorea) · Nampo-dong BIFF Street feature", "url": "https://chinese.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=201162" },
+      { "name": "Jung-gu District Office, Busan · Official attraction page", "url": "https://www.bsjunggu.go.kr/eng/index.junggu?menuCd=DOM_000001202002005000" },
+      { "name": "Visit Busan (Busan Tourism) · Modern history tour", "url": "https://www.visitbusan.net/index.do?menuCd=DOM_000000302011001000&uc_seq=332&lang_cd=en" },
+      { "name": "Busan Metropolitan City · Busan International Film Festival official feature", "url": "https://www.busan.go.kr/eng/bsfilm03" }
+    ],
+    "disclaimer": "This website is an independent non-profit visitor information project. We are affiliated with no government agency or official organization.",
+    "dataSource": "All attraction information referenced on this site is cross-checked against public materials from the Korea Tourism Organization (VisitKorea), Busan Metropolitan City and Jung-gu District Office, with no commercial recommendations.",
+    "dataSourceLabel": "Data Source"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      { "heading": "1. Information Collection", "content": "We generally do not actively collect users' personal identity information. Any information you provide via contact forms or email will be kept strictly confidential." },
+      { "heading": "2. Use of Information", "content": "Information we collect is used only to provide, maintain and improve our services and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes." },
+      { "heading": "3. Cookies & Tracking", "content": "We use cookies and similar tracking technologies to record activity on the site and store certain information. You can instruct your browser to refuse all cookies or to alert you when a cookie is sent." },
+      { "heading": "4. Data Security", "content": "Your data security matters to us. We take commercially reasonable measures to protect your personal data, though no internet transmission is 100% secure." }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      { "heading": "1. Acceptance of Terms", "content": "By accessing and using this website, you agree to be bound by these terms. If you disagree with any part, do not use the service." },
+      { "heading": "2. Use of Service", "content": "This website is an independent non-profit visitor information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully." },
+      { "heading": "3. Intellectual Property", "content": "All content on this site, including text, images and logos, unless otherwise stated, is the property of the site owner. Unauthorized use, reproduction or distribution is strictly prohibited." },
+      { "heading": "4. Limitation of Liability", "content": "We are not liable for any direct, indirect, incidental or consequential damages arising from the use or inability to use this site or the information contained in it." }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": { "title": "Strictly Necessary Cookies", "description": "Required for basic site function.", "badge": "Always active" },
+    "analytics": { "title": "Analytics Cookies", "description": "Help us understand how visitors interact with the site." },
+    "marketing": { "title": "Marketing Cookies", "description": "Used to track visitors across sites." },
+    "save": "Save preferences",
+    "saved": "Preferences saved!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical information about BIFF Square's facilities, history and visit planning.",
+    "amenities": {
+      "title": "Nearby Facilities",
+      "items": [
+        { "icon": "🅿️", "label": "Parking", "value": "Nampo-dong public lot / Gukje Market tower" },
+        { "icon": "🚻", "label": "Restrooms", "value": "District shops & public restrooms" },
+        { "icon": "🔌", "label": "Fuel / EV charge", "value": "EV chargers at nearby malls" },
+        { "icon": "♿", "label": "Accessibility", "value": "Flat Nampo-dong district" }
+      ]
+    },
+    "categories": [
+      {
+        "id": "infra",
+        "title": "Transport & Infrastructure",
+        "items": [
+          { "q": "Is there parking, and what does it cost?", "a": "Several public and mall lots surround the square, such as Nampo-dong public parking and the Gukje Market tower, within walking distance. Mostly paid; they fill fast on peak weekends — arrive early or prefer transit." },
+          { "q": "Are wheelchairs or strollers allowed?", "a": "Nampo-dong and BIFF Square are flat with accessible ramps; wheelchairs and strollers can reach Star Road and the carpet area fairly easily. Crowds are heavy on holidays — stay on hard surfaces and bring company." },
+          { "q": "Are there restrooms or food on site?", "a": "The square itself is an open corner; restrooms and food concentrate in the surrounding Nampo-dong district and Gukje Market. Stock up on water and food in the district before entering." },
+          { "q": "Is there a gas station or EV charging nearby?", "a": "EV chargers are at Nampo-dong malls and public lots; conventional gas stations line Busan Station and the city, handy for drivers to refuel on the way in." }
+        ]
+      },
+      {
+        "id": "geo",
+        "title": "History & Facts",
+        "items": [
+          { "q": "What does 'BIFF Square' have to do with film?", "a": "'BIFF' comes from the Busan International Film Festival's acronym. The square was redeveloped and renamed BIFF Square in 2011 as the festival changed from PIFF to BIFF — an important Korean film-culture landmark. The name hides both the festival's growth story and Busan's cultural ambition toward the world." },
+          { "q": "What is its special natural and human value?", "a": "BIFF Square is not a themed park, but a street corner where citizens turned a Nampo-dong block into a cultural landmark holding together film glory, fan memory, handprint art and everyday bustle. Star Road, the carpet and the surrounding market form a low-impact, high-empathy design and one of Busan's 'film and harbor' city cards." }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Planning & Tickets",
+        "items": [
+          { "q": "Is there an admission fee?", "a": "BIFF Square is an open public space, free long-term, accessible 24 hours, no gate, no ticket or reservation — visit anytime (respect film culture, avoid late-night noise)." },
+          { "q": "How long does a visit take?", "a": "A relaxed visit is about 1–2 hours (including Star Road and photo stops); if you add Gukje Market, Bosudong Bookstreet or Yongdusan Park, reserve a half day." },
+          { "q": "Can I still go in bad weather?", "a": "Yes — it is an open corner, accessible in any weather. But during typhoons, heavy rain or thunderstorms mind wind and lightning; wear non-slip shoes and watch weather; the handprint plates are slippery when wet." }
+        ]
+      },
+      {
+        "id": "nearby",
+        "title": "Nearby Links",
+        "items": [
+          { "q": "What else is worth visiting nearby?", "a": "From BIFF Square you can link Gukje Market (국제시장), Bosudong Bookstore Street (보수동 책방골목), the 40 Steps (40계단), Yongdusan Park (용두산공원) and Busan Tower, forming a 'handprints – carpet – market – harbor' half-day culture route." }
+        ]
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Explore More of Busan",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Experiences",
+    "attractions": [
+      { "name": "Gukje Market (국제시장 · old Busan flavors)", "url": "https://chinese.visitkorea.or.kr" },
+      { "name": "Bosudong Bookstore Street (보수동 책방골목 · used books & crafts)", "url": "https://www.visitbusan.net" },
+      { "name": "40 Steps (40계단 · modern history landmark)", "url": "https://www.visitbusan.net" },
+      { "name": "Yongdusan Park & Busan Tower (용두산공원 · harbor night view)", "url": "https://www.bsjunggu.go.kr" },
+      { "name": "Nampo-dong district (남포동 · shopping & food)", "url": "https://chinese.visitkorea.or.kr" }
+    ],
+    "tours": [
+      { "name": "Korea Tourism Organization (VisitKorea)", "url": "https://chinese.visitkorea.or.kr" },
+      { "name": "Visit Busan (Busan Tourism)", "url": "https://www.visitbusan.net" },
+      { "name": "Jung-gu District Office, Busan", "url": "https://www.bsjunggu.go.kr" }
+    ]
+  },
+  "scienceArt": {
+    "title": "Film & City: Handprints, Carpet and Harbor",
+    "subtitle": "Dig one layer below the surface 'good looks' to find what is truly rare here: it is at once a film landmark, a piece of urban memory, and an open-air film-culture classroom.",
+    "scienceMuseum": {
+      "name": "Busan International Film Festival & BIFF Square",
+      "role": "A film landmark built into the district",
+      "highlight": "The hardest part of BIFF Square is both visible and invisible. Visible are the handprint plates and the carpet; invisible is the Busan film ambition and the growth history of Asian emerging cinema it carries. Visitors see a streetscape; fans see a memory system still running.",
+      "points": [
+        "Core: film glory, fan memory and urban geography light up this corner.",
+        "Key: public space transformed into a low-impact, high-empathy film classroom.",
+        "Meaning: it upgrades 'district corner' into a publicly pilgrimage-worthy film model."
+      ],
+      "ctaLabel": "See VisitKorea ↗",
+      "ctaUrl": "https://chinese.visitkorea.or.kr"
+    },
+    "artMuseum": {
+      "name": "The film symbols in Star Road",
+      "role": "Cultural symbol of BIFF Square",
+      "highlight": "The handprint plates, the carpet and the Nampo-dong neon, together with Busan harbor, form BIFF Square's identity system: instantly readable as belonging to Busan, to film, and to a gentle, vivid film aesthetics. From film glory to everyday bustle, this contrast makes it one of Busan's most memorable cultural images.",
+      "points": [
+        "Imagery: handprints, carpet, neon form strong recognition.",
+        "Status: Busan's most photogenic film landmark.",
+        "Narrative: it translates the film theme into a publicly felt aesthetic experience."
+      ],
+      "ctaLabel": "See Visit Busan ↗",
+      "ctaUrl": "https://www.visitbusan.net"
+    }
+  },
+  "outdoorMuseum": {
+    "title": "Photo & Spotting Guide: BIFF Square's Photo Spots",
+    "subtitle": "As Busan's most recognizable film landmark, a few structured spots and times greatly improve your photos' usefulness and beauty.",
+    "items": [
+      {
+        "id": "sunrise",
+        "icon": "🌅",
+        "name": "Star Road · handprint galaxy",
+        "location": "Star Road mid-section",
+        "background": "From dawn to dusk, the handprint plates of over a hundred filmmakers spread across the pavement — BIFF Square's classic 'handprint – corner' composition, with handprint silhouettes especially moving in backlight.",
+        "points": [
+          "Use the handprint plates as a lead-in to the horizon.",
+          "Crouch low to layer handprints and pavement for a steadier frame."
+        ],
+        "badge": { "value": "Dawn", "label": "Best shot" }
+      },
+      {
+        "id": "bridge",
+        "icon": "🎬",
+        "name": "Red carpet · film overlook",
+        "location": "Carpet area path",
+        "background": "Shoot the carpet area from below or from the square to frame 'carpet + corner + Nampo-dong' together — BIFF Square's most recognizable spot.",
+        "points": [
+          "Side-light at dawn makes the carpet marker softest.",
+          "Mind your feet and crowds; don't enter closed zones for a frame."
+        ],
+        "badge": { "value": "All day", "label": "Most accessible" }
+      },
+      {
+        "id": "sea",
+        "icon": "🌉",
+        "name": "BIFF marker wall & dusk",
+        "location": "Square marker wall",
+        "background": "Blue hour (20–30 min after sunset) balances sky and pavement best — the strongest mood window, the marker wall striking against the cool sky.",
+        "points": [
+          "Shoot at blue hour for the most balanced sky and pavement.",
+          "Silhouette the marker wall leaving a large warm corner."
+        ],
+        "badge": { "value": "Dusk", "label": "Strongest mood" }
+      },
+      {
+        "id": "night",
+        "icon": "🌃",
+        "name": "Nampo-dong night lights",
+        "location": "Square toward the district",
+        "background": "At night the Nampo-dong neon lights up and BIFF Square mirrors a river of lights — good for a closing long-exposure night shot and portraits.",
+        "points": [
+          "Use the neon streetscape as a lead-in to the distance.",
+          "Raise ISO or use stabilization for night shots."
+        ],
+        "badge": { "value": "Night", "label": "Best layers" }
+      }
+    ]
+  },
+  "education": {
+    "title": "Why is this Busan's film landmark?",
+    "subtitle": "What's most worth learning about BIFF Square is not 'it got pretty', but how a Nampo-dong corner was brought back into public film memory while keeping reverence for culture.",
+    "points": [
+      {
+        "title": "A film living room still used by citizens",
+        "text": "BIFF Square is not a 'hide the film and done' case, but a sample that continuously activates the film landmark through public-space design and turns it into a shared place.",
+        "items": [
+          "Citizens entrust daily walks and fan pilgrimages to this corner.",
+          "Public space and city life coexist long-term."
+        ]
+      },
+      {
+        "title": "Writing film ethics into visitor behavior",
+        "text": "The signs, handprint plates and guide system are not just guides, but let every visitor, while using the space, take part in respect for film culture and others.",
+        "items": [
+          "Visitors are guided to stay on low-impact paths.",
+          "Pilgrimage experience and public life are not sacrificed to each other."
+        ]
+      },
+      {
+        "title": "Turning film memory into public aesthetics",
+        "text": "BIFF Square did not erase the film prehistory, but through handprints, the carpet and signs lets the public, while visiting, realize what this land has gone through.",
+        "items": [
+          "Story depth and pilgrimage experience complete at the same place.",
+          "This is exactly the value a non-profit science site should amplify."
+        ]
+      }
+    ]
+  },
+  "audience": {
+    "title": "Who Should Come? From Segment Guide to Custom Itinerary",
+    "subtitle": "Not just 'you'll like it', but directly telling you how to go, where to start, and which Busan nodes to link.",
+    "resonanceLabel": "Resonance: ",
+    "routeLabel": "Recommended: ",
+    "tipLabel": "Tip: ",
+    "items": [
+      {
+        "icon": "👨‍👩‍👧",
+        "group": "Families",
+        "resonance": "Free, open, safe flat corner; kids can find familiar stars' handprints and view the district, and easily walk to the carpet area from the gentle side.",
+        "tip": "Save energy for the photo stops rather than spending it on crowds."
+      },
+      {
+        "icon": "📷",
+        "group": "Photographers & couples",
+        "resonance": "Dawn and dusk handprint galaxy are Busan's most romantic frames, very photogenic.",
+        "tip": "Count arrival, return and light into your plan so the frame doesn't lose to on-site pace."
+      },
+      {
+        "icon": "🌿",
+        "group": "Film & history lovers",
+        "resonance": "As a film-landmark sample, the festival prehistory, carpet and handprints are worth a close look.",
+        "tip": "Avoid the most crowded weekends; choose dawn or weekday afternoons to truly observe details."
+      },
+      {
+        "icon": "🗺️",
+        "group": "First-time visitors to Korea",
+        "resonance": "Without going far to the countryside, you can observe Korean film culture, everyday bustle and harbor geography in central Busan, and link subway, bus and local food — an ideal starting point to understand Busan's 'film and harbor' character.",
+        "tip": "If you can only pick one Busan landmark, BIFF Square is the best first stop for the 'film and city' theme."
+      }
+    ]
+  },
+  "lodging": {
+    "title": "Lodging Guide: Stay close, or stay convenient",
+    "subtitle": "Busan is a port city where 'mountain-sea and city connect'. We don't recommend specific hotels, but help you analyze two lodging patterns to choose what suits you.",
+    "scenarioTitle": "Two choices, how to choose",
+    "options": [
+      {
+        "icon": "🎬",
+        "name": "Nampo-dong / Jung-gu area",
+        "role": "Best for square & district",
+        "highlight": "Staying in Nampo-dong or Jung-gu, you walk or take a short ride to BIFF Square, Gukje Market and Bosudong Bookstreet; the night neon and sea breeze suit travelers. Best for those focused on 'film stroll + shopping' with high convenience needs.",
+        "commute": "Commute: about 5–15 min walk to the square, about 5–10 min to Gukje Market. Low demand on legs, good for early-morning square walks.",
+        "points": [
+          "About 5–15 min walk to Star Road, least effort.",
+          "Very rich district night views and dining.",
+          "More choices, usually better value."
+        ]
+      },
+      {
+        "icon": "🏙️",
+        "name": "Seomyeon / Haeundae area",
+        "role": "Best for food & beach",
+        "highlight": "Staying in Seomyeon or Haeundae, next to subway hubs, beaches and food streets, best for those focused on 'beach + transfer', then take subway to BIFF Square by day.",
+        "commute": "Commute: about 20–40 min by subway to Nampo Station. Good for drivers or independent travelers wanting absolute convenience.",
+        "points": [
+          "Subway hub and beach at hand, good for transfers.",
+          "Beach, cafes and night markets are very rich.",
+          "About 20–40 min walk or a short ride to BIFF Square."
+        ]
+      }
+    ],
+    "peakTitle": "Peak-season warning",
+    "peak": "Busan's summer beach season and the festival (October) tighten rooms and raise prices noticeably. Book several weeks ahead; if booking near a holiday, widen the range to Seoul, Gimhae and other surrounding areas, then take the train or flight.",
+    "tipsTitle": "Lodging tips",
+    "tips": [
+      "Want handprint shots: prefer Nampo-dong / Jung-gu, walk to the square at dawn.",
+      "Value food & beach: choose Seomyeon / Haeundae, walking and dining at hand.",
+      "Before booking, confirm breakfast, parking and EV chargers (drivers especially).",
+      "Book ahead in peak season and holidays to avoid no rooms or high prices."
+    ]
+  }
+}

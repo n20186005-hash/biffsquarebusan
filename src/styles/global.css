@@ -256,6 +256,13 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
   pointer-events: auto;
 }
+.section-nav-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.section-nav-scroll::-webkit-scrollbar {
+  display: none;
+}
 .section-nav-link {
   white-space: nowrap;
   padding: 0.7rem 0.9rem;

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "BIFF Square (BIFF광장) | Jung-gu, Busan · Home of the Busan International Film Festival & Star Road",
-    "description": "The complete guide to BIFF Square (BIFF광장): a cinematic landmark in Nampo-dong, Jung-gu, Busan, right next to Gukje Market and Bosudong Bookstore Street. The Busan International Film Festival (then PIFF) was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and every October it becomes the red-carpet stage for the festival's opening and closing ceremonies. Opening hours, how to get there, history, photo spots and visitor reviews — all in one place."
+    "description": "The complete guide to BIFF Square (BIFF광장): a cinematic landmark in Nampo-dong, Jung-gu, Busan, right next to Gukje Market and Bosudong Bookstore Street. The Busan International Film Festival (then PIFF) was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road). It is the birthplace of the festival and the core stage of 'Community BIFF (community film festival)', as well as a beloved street-food spot (seed/nut sugar pancake, Ssiat Hotteok). Opening hours, how to get there, history, photo spots and visitor reviews — all in one place."
   },
   "header": {
     "siteName": "BIFF Square",
@@ -37,7 +37,9 @@
   "stickyNav": {
     "facts": "Key Facts",
     "etiquette": "Visitor Etiquette",
+    "timeline": "History",
     "route": "Half-Day Route",
+    "calculator": "Budget Calculator",
     "transport": "Getting There",
     "lodging": "Stay",
     "visit": "Visit Tips",
@@ -45,7 +47,7 @@
   },
   "hero": {
     "title": "BIFF Square (BIFF광장)",
-    "subtitle": "A cinematic urban landmark in Nampo-dong, Jung-gu, Busan. The Busan International Film Festival was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and every October it becomes the red-carpet stage for the festival's opening and closing ceremonies — one of Korea's most representative film-themed street landmarks.",
+    "subtitle": "A cinematic urban landmark in Nampo-dong, Jung-gu, Busan. The Busan International Film Festival was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and since the festival's main venue moved to Haeundae in 2011, it has become the festival's birthplace and the core stage of 'Community BIFF (community film festival)', as well as a beloved street-food spot (seed/nut sugar pancake, Ssiat Hotteok) — one of Korea's most representative film-themed street landmarks.",
     "rating": "4.1 (19,981)",
     "reviewCount": "19,981 reviews",
     "hours": "Open 24 hours (public square)",
@@ -84,8 +86,8 @@
     "items": [
       { "icon": "🎬", "label": "Founded / Founded", "value": "1996", "note": "The Busan International Film Festival (then PIFF) was founded in 1996; the BIFF Square area has since become one of the birthplaces of Korean film culture." },
       { "icon": "🌟", "label": "Star Road / Star Road", "value": "100+ filmmakers", "note": "The square is paved with the handprints and footprints of hundreds of directors and actors — Korea's most recognizable Star Road of filmmakers." },
-      { "icon": "🏆", "label": "Festival / Festival", "value": "Major Asian festival", "note": "The Busan International Film Festival is one of Asia's most influential film festivals; BIFF Square has long been the core stage for its red carpet and fan gatherings." },
-      { "icon": "🎞️", "label": "Role / Role", "value": "Red-carpet stage", "note": "Every October during the festival, the square becomes the red-carpet stage for opening and closing ceremonies, where star handprints and the carpet form a highly cinematic street scene." },
+      { "icon": "🏆", "label": "Festival / Festival", "value": "Major Asian festival", "note": "The Busan International Film Festival is one of Asia's most influential film festivals; BIFF Square is the festival's birthplace and the core stage of 'Community BIFF', while the grand opening/closing carpet moved to the Busan Cinema Center in Haeundae in 2011." },
+      { "icon": "🎞️", "label": "Role / Role", "value": "Film landmark · Community BIFF", "note": "Since the main venue moved to Haeundae in 2011, the square keeps Star Road and became a community-film-festival stage — free, open and full of everyday bustle, a civic living room where film meets the street." },
       { "icon": "📍", "label": "Location / Location", "value": "35°06′N, 129°02′E", "note": "Plus Code: 32XH+7M Busan. At 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street." },
       { "icon": "🚇", "label": "Nearby / Nearby", "value": "Market · Bookstreet", "note": "Organically linked with Nampo-dong, Gukje Market, Bosudong Bookstore Street and the 40 Steps — the starting point for Busan's modern history and culture trail." }
     ]
@@ -106,8 +108,8 @@
       },
       {
         "q": "What is different during the festival?",
-        "a": "Every October during the Busan International Film Festival, the square becomes the red-carpet stage for opening and closing ceremonies, with carpet, star handprint unveilings and crowd control, and some surrounding roads close temporarily. If you come specifically for the carpet, check the day's schedule and control info in advance.",
-        "items": ["Red carpet and star events concentrate in the October festival.", "Crowds and road closures are heavier in festival time; prefer public transit."]
+        "a": "Every October during the Busan International Film Festival, the grand opening/closing carpet and awards moved to the Busan Cinema Center in Haeundae's Centum City; BIFF Square, as the festival's birthplace, hosts 'Community BIFF' open-air screenings, star handprint unveilings and fan markets, with crowd control and some surrounding roads closing temporarily. If you come specifically for the carpet, head to Haeundae and check the day's schedule in advance.",
+        "items": ["Grand carpet & awards: Busan Cinema Center, Haeundae (since 2011).", "BIFF Square: Community BIFF screenings, handprint unveilings & fan markets; crowds and closures are heavier in festival time — prefer public transit."]
       },
       {
         "q": "Is it convenient with children or seniors?",
@@ -142,20 +144,40 @@
     ]
   },
   "higashiyamaRoute": {
-    "title": "Custom Itinerary: BIFF Square Half-Day Loop",
-    "subtitle": "Not just 'who it suits', but a walkable half-day route. Centered on Star Road, it links the red carpet, Gukje Market and Bosudong Bookstore Street.",
+    "title": "Half-Day Route · Closed Loop",
+    "subtitle": "Not just 'who it suits', but a strongly logical closed loop you can follow directly: from filmmakers' handprints, to the landmark arch, then to street food and the old-book street — a complete 'film + everyday' package in half a day.",
     "steps": [
-      { "title": "[Start] Star Road & handprint plates", "meta": "Core experience · ~40 min", "text": "First be surrounded by the handprints and footprints of over a hundred filmmakers on Star Road, recognizing familiar names and leaving the soft morning or dusk light for this film shrine.", "tips": ["Star Road is open and level; morning and dusk light are best with fewer crowds."] },
-      { "title": "[Main] Red carpet & square marker", "meta": "Film experience · ~30 min", "text": "Walk to the red-carpet stage and the BIFF marker wall, understanding the square's original intent as the festival's opening/closing stage and its cinematic streetscape.", "tips": ["The carpet area draws fans year-round; queue courteously."] },
-      { "title": "[Extend] Gukje Market food tour", "meta": "Local life · ~60 min", "text": "Walk to the adjacent Gukje Market, taste rice cakes, fish cakes and Korean snacks, feeling film culture and everyday bustle together.", "tips": ["Market food is dense; graze lightly across many stalls."] },
-      { "title": "[Supply] Bosudong Bookstreet & 40 Steps", "meta": "Culture stop · ~40 min", "text": "Hunt used books and crafts on Bosudong Bookstore Street, then overlook Nampo-dong from the 40 Steps, collecting history and contemporary culture together.", "tips": ["Bookstreet suits slow browsing; old books and film cameras are popular themes."] },
-      { "title": "[End] Yongdusan Park or return", "meta": "Wrap · ~60 min+", "text": "If energy allows, climb Yongdusan Park and Busan Tower for the harbor night view; otherwise take the subway / bus back, completing a 'handprints + carpet + market' half-day package.", "tips": ["Yongdusan night view is superb; go after dusk."] }
+      { "title": "Star Road & directors' handprints", "meta": "≈40 min · best light", "text": "Exit Nampo Station (Subway Line 1), Exit 7, head straight to the main entrance, and in the soft morning or dusk light look for the handprint plates of international auteurs such as Hou Hsiao-hsien, Akira Kurosawa and Takeshi Kitano.", "tips": ["Star Road is open and level; morning and dusk light are best with fewer crowds.", "The handprint plates are embedded in the pavement; crouch low for better composition."] },
+      { "title": "Photo stop: BIFF landmark arch", "meta": "≈20 min · classic frame", "text": "Take photos under the giant yellow semi-circular arch on the south side of the square, capturing the most Busan-film-street landmark view, framed together with the Star Road handprints.", "tips": ["The arch is the square's most photogenic spot; queue courteously.", "For backlit shots, leave negative space with the arch silhouette."] },
+      { "title": "Taste break: seed pancake & fish cake", "meta": "≈45 min · Busan on the tongue", "text": "In front of the dense red-and-yellow umbrella stalls at the center of the square, queue for a freshly fried 'seed/nut sugar pancake (Ssiat Hotteok)' — crisp outside, filled with sunflower and pumpkin seeds; pair it with a skewer of hot fish cake (Eomuk) for the authentic BIFF flavor.", "tips": ["Eat the seed pancake while hot; the filling can be scalding.", "The red-and-yellow umbrella stalls are an iconic image of Nampo-dong street food."] },
+      { "title": "Cultural extension: market & bookstreet", "meta": "≈60 min · walkable", "text": "Head north across the main road into Gukje Market, then walk on to Bosudong Bookstore Street to explore the used-book and craft culture that has survived since the Korean War, collecting film narrative and urban memory together.", "tips": ["Market food is dense; graze lightly across many stalls.", "Bosudong Bookstreet's old books and film cameras are popular themes — best browsed slowly."] }
     ],
-    "disclaimer": "The route emphasizes a closed loop that 'works even if you just follow it'; if you only want Star Road, keep the first two segments and treat the market and bookstreet as flexible add-ons."
+    "disclaimer": "The route emphasizes a closed loop that 'works even if you just follow it'; if short on time, keep the first two segments as the core, and treat the food and bookstreet as flexible add-ons."
+  },
+  "calculator": {
+    "title": "Street Food & Budget Calculator",
+    "subtitle": "Tick the BIFF Square street foods you want to try and estimate your spending at one click (KRW, exchange rate fluctuates daily, for reference only).",
+    "currencyNote": "Reference rate: 1 CNY ≈ 190 KRW · 1 USD ≈ 1,380 KRW (for reference, subject to the day's bank rate)",
+    "itemsLabel": "Select the foods to try",
+    "quantityLabel": "Qty",
+    "totalLabel": "Estimated total",
+    "krwLabel": "Korean Won (KRW)",
+    "cnyLabel": "≈ Chinese Yuan (CNY)",
+    "usdLabel": "≈ US Dollar (USD)",
+    "reset": "Reset selection",
+    "note": "Prices are common ranges at BIFF Square street stalls; actual on-site may vary. The calculator is for trip budgeting only and excludes meals, shopping and transport.",
+    "foods": [
+      { "id": "hotteok", "name": "Seed/nut sugar pancake (Ssiat Hotteok)", "price": 1500, "desc": "Square signature, crisp pancake filled with sunflower and pumpkin seeds" },
+      { "id": "odeng", "name": "Fish cake skewer (Eomuk / Odeng)", "price": 1000, "desc": "Hot fish cake in broth, a winter hand-warmer" },
+      { "id": "tteok", "name": "Spicy rice cakes (Tteokbokki)", "price": 4000, "desc": "Spicy rice cakes, a Korean street classic" },
+      { "id": "bindaetteok", "name": "Mung-bean pancake (Bindaetteok)", "price": 5000, "desc": "Crisp mung-bean pancake, good to share" },
+      { "id": "twigim", "name": "Assorted fried food (Twigim)", "price": 2000, "desc": "Fried vegetables and seafood, crisp outside tender inside" },
+      { "id": "coffee", "name": "Coffee / drink", "price": 4500, "desc": "Cafés in the surrounding district" }
+    ]
   },
   "intro": {
     "title": "Getting to Know BIFF Square",
-    "description": "BIFF Square (BIFF광장) lies at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street — an urban film-culture landmark that gave birth to the Busan International Film Festival. The Busan International Film Festival (then PIFF) was founded here in 1996, and in 2011, as the festival's acronym changed from PIFF to BIFF, the square was redeveloped and renamed BIFF Square. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and every October it becomes the red-carpet stage for the festival's opening and closing ceremonies — one of Korea's most representative film-themed street landmarks.",
+    "description": "BIFF Square (BIFF광장) lies at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street — an urban film-culture landmark that gave birth to the Busan International Film Festival. The Busan International Film Festival (then PIFF) was founded here in 1996, and in 2011, as the festival's acronym changed from PIFF to BIFF, the square was redeveloped and renamed BIFF Square. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road); it is the birthplace of the festival and the core stage of 'Community BIFF (community film festival)', as well as a beloved street-food spot (seed/nut sugar pancake, Ssiat Hotteok) — one of Korea's most representative film-themed street landmarks.",
     "visitGuide": {
       "title": "Visit Guide",
       "eyebrow": "Practical Planning",
@@ -171,7 +193,8 @@
       "title": "Highlights",
       "items": [
         "Star Road of handprints and footprints from over a hundred filmmakers — Korea's most recognizable film landmark",
-        "Red-carpet stage of the Busan International Film Festival (BIFF), a film carnival every October",
+        "Birthplace of the Busan International Film Festival (BIFF) and core stage of 'Community BIFF', a community film carnival every October",
+        "A beloved street-food spot: the signature 'seed/nut sugar pancake (Ssiat Hotteok)' is crisp outside and filled with sunflower and pumpkin seeds",
         "Next to Gukje Market and Bosudong Bookstore Street, where film culture meets everyday bustle",
         "Linked with the 40 Steps and Yongdusan Park, forming Busan's modern history and culture trail",
         "Free, open public space accessible 24 hours — stroll and snap anytime"
@@ -332,8 +355,35 @@
     }
   },
   "officialManagement": {
-    "title": "About This Square",
-    "text": "BIFF Square lies at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan — a film-culture landmark grown from a former Nampo-dong street corner, maintained as public space by the Jung-gu District Office of Busan Metropolitan City. It has long been a shared urban living room where citizens walk through, fans make pilgrimages and tourists stroll, and is one of Busan's city cards as the 'city of film and harbor'."
+    "title": "Landmark Archive",
+    "text": "It is the cradle of Asia's new-wave cinema and Busan's most locally warm civic living room. Here, the handprint plates of international masters lie right beside the griddle of street-food stalls — high art and everyday bustle have never been so naturally reconciled."
+  },
+  "timeline": {
+    "title": "History · Three-Act Timeline",
+    "subtitle": "Place the prehistory, renaming and main-venue move of the Busan International Film Festival on one axis to truly understand why this corner is more than 'a pretty square'.",
+    "items": [
+      {
+        "year": "1996",
+        "era": "PIFF era begins",
+        "tag": "Origin",
+        "title": "PIFF era begins",
+        "text": "In 1996 the first Busan International Film Festival (then PIFF, Pusan International Film Festival) opened here, and the Nampo-dong street corner became the celebration stage for Asian filmmakers, laying Busan's city identity as a 'city of film'."
+      },
+      {
+        "year": "2011",
+        "era": "Renaming & venue move",
+        "tag": "Transition",
+        "title": "Renaming & venue move",
+        "text": "In 2011 the acronym was officially changed from PIFF to BIFF. The same year, the festival's main venue, carpet ceremony and closing moved to the Busan Cinema Center in Haeundae's Centum City, while BIFF Square kept Star Road and was modernized."
+      },
+      {
+        "year": "2018",
+        "era": "Community BIFF era",
+        "tag": "Present",
+        "title": "Community BIFF era",
+        "text": "From 2018 to now, the 'Community BIFF (community film festival)' section was introduced; screening rights returned to the Nampo-dong neighborhood, with open-air screenings, handprint unveilings and fan markets bringing film art fully into the street corner."
+      }
+    ]
   },
   "humanities": {
     "title": "Humanities & Film Theme Research",
@@ -350,7 +400,7 @@
       {
         "id": "name",
         "title": "The name 'BIFF': from PIFF to BIFF",
-        "content": "In 2011, the Busan International Film Festival changed its acronym from PIFF to BIFF (Busan International Film Festival), and the square was redeveloped and officially renamed 'BIFF Square' that same year. The name hides both the festival's growth story and Busan's cultural ambition toward the world."
+        "content": "In 2011, the Busan International Film Festival changed its acronym from PIFF to BIFF (Busan International Film Festival), and the square was redeveloped and officially renamed 'BIFF Square' that same year. The same year, the festival's main venue, carpet ceremony and closing moved to the Busan Cinema Center (Busan Cinema Center) in Haeundae's Centum City. The name hides both the festival's growth story and Busan's cultural ambition toward the world."
       },
       {
         "id": "starroad",
@@ -359,8 +409,8 @@
       },
       {
         "id": "redcarpet",
-        "title": "Red-carpet stage: the spotlight of opening/closing",
-        "content": "Every October during the Busan International Film Festival, BIFF Square becomes the red-carpet stage for opening and closing ceremonies, where star handprint unveilings, fan cheers and the carpet轮流 take place — one of Korea's most cinematic street scenes."
+        "title": "From red carpet to community film festival",
+        "content": "Since 2011, the festival's grand opening/closing carpet and awards have moved to the Busan Cinema Center in Haeundae; BIFF Square keeps Star Road, star handprint unveilings and fan markets, transforming into the festival's 'spiritual birthplace' and the core stage of 'Community BIFF'. On ordinary days it is one of Korea's most cinematic — and most human — street scenes."
       },
       {
         "id": "market",
@@ -410,11 +460,11 @@
       {
         "id": "wooden",
         "badge": "Red-carpet marker",
-        "title": "Opening/closing red-carpet stage",
+        "title": "Spiritual birthplace · Community BIFF",
         "koTitle": "레드카펫 안내",
         "koTitleZh": "Red-carpet marker",
         "location": "Square carpet area",
-        "body": "The guide explains 'why this is the carpet stage'. Every October during the festival, star handprint unveilings and carpet ceremonies are held here; seeing it with Star Road, BIFF Square's design logic becomes clear: film glory and civic life coexist."
+        "body": "The guide explains 'why this is the spiritual birthplace of the festival'. Although the grand opening/closing carpet moved to the Busan Cinema Center in Haeundae in 2011, every October star handprint unveilings and 'Community BIFF' open-air screenings are still held here; seeing it with Star Road, BIFF Square's design logic becomes clear: film glory and civic life coexist."
       },
       {
         "id": "dongporu",
@@ -429,14 +479,14 @@
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "From the handprint plates of over a hundred filmmakers on Star Road and the red-carpet stage to the neon streetscape of Nampo-dong — the visual beauty of BIFF Square.",
+    "subtitle": "From the handprint plates of over a hundred filmmakers on Star Road and the red-carpet area to the neon streetscape of Nampo-dong — the visual beauty of BIFF Square.",
     "photoAlt": "BIFF Square",
     "photoAlts": [
       "Panorama of BIFF Square, with the handprint plates of over a hundred filmmakers spread across Star Road.",
       "Quiet empty square at dawn, best for slow close-ups of the handprints.",
       "Star Road in golden dusk light, handprint plates like a river of stars.",
       "Close-up of the BIFF marker wall, red background with white text, highly cinematic.",
-      "Overhead of the red-carpet stage, laying out the festival carnival atmosphere.",
+      "Overhead of the red-carpet area, laying out the festival carnival atmosphere.",
       "Overhead view of the square and Nampo-dong district as an urban landscape.",
       "Close-up of handprint plates, familiar international auteurs and Korean stars.",
       "Warm family stroll on the square, good for slow family visits.",
@@ -528,7 +578,8 @@
       { "name": "Korea Tourism Organization (VisitKorea) · Nampo-dong BIFF Street feature", "url": "https://chinese.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=201162" },
       { "name": "Jung-gu District Office, Busan · Official attraction page", "url": "https://www.bsjunggu.go.kr/eng/index.junggu?menuCd=DOM_000001202002005000" },
       { "name": "Visit Busan (Busan Tourism) · Modern history tour", "url": "https://www.visitbusan.net/index.do?menuCd=DOM_000000302011001000&uc_seq=332&lang_cd=en" },
-      { "name": "Busan Metropolitan City · Busan International Film Festival official feature", "url": "https://www.busan.go.kr/eng/bsfilm03" }
+      { "name": "Busan Metropolitan City · Busan International Film Festival official feature", "url": "https://www.busan.go.kr/eng/bsfilm03" },
+      { "name": "Busan International Film Festival (BIFF) official website · primary archive", "url": "https://www.biff.kr/eng/" }
     ],
     "disclaimer": "This website is an independent non-profit visitor information project. We are affiliated with no government agency or official organization.",
     "dataSource": "All attraction information referenced on this site is cross-checked against public materials from the Korea Tourism Organization (VisitKorea), Busan Metropolitan City and Jung-gu District Office, with no commercial recommendations.",
@@ -676,7 +727,7 @@
       {
         "id": "bridge",
         "icon": "🎬",
-        "name": "Red carpet · film overlook",
+        "name": "Red-carpet area · film overlook",
         "location": "Carpet area path",
         "background": "Shoot the carpet area from below or from the square to frame 'carpet + corner + Nampo-dong' together — BIFF Square's most recognizable spot.",
         "points": [

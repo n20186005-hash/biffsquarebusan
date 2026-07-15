@@ -1,0 +1,120 @@
+---
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const c = messages.calculator;
+const foods = c.foods ?? [];
+---
+
+<section id="calculator" class="section-padding" style="background: var(--bg-primary);">
+  <div class="max-w-4xl mx-auto px-4">
+    <div class="max-w-3xl mx-auto text-center mb-10">
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3" style="color: var(--text-primary);">{c.title}</h2>
+      {c.subtitle && <p class="text-base sm:text-lg leading-relaxed" style="color: var(--text-secondary);">{c.subtitle}</p>}
+      {c.currencyNote && <p class="text-xs mt-3" style="color: var(--text-muted);">{c.currencyNote}</p>}
+    </div>
+
+    <div class="rounded-3xl p-6 md:p-8 border" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+      {c.itemsLabel && <p class="text-sm font-semibold mb-4 uppercase tracking-[0.16em]" style="color: var(--text-muted);">{c.itemsLabel}</p>}
+
+      <div class="grid sm:grid-cols-2 gap-3">
+        {foods.map((f) => (
+          <label class="flex items-start gap-3 rounded-2xl p-4 border cursor-pointer transition hover:border-opacity-100" style="background: var(--card-bg); border-color: var(--border-color);" data-food>
+            <input type="checkbox" class="mt-1 w-4 h-4 shrink-0 accent-[var(--accent)]" data-id={f.id} data-price={f.price} />
+            <div class="min-w-0 flex-1">
+              <div class="flex items-baseline justify-between gap-2">
+                <span class="font-medium leading-snug" style="color: var(--text-primary);">{f.name}</span>
+                <span class="text-sm font-semibold whitespace-nowrap" style="color: var(--accent);">{f.price.toLocaleString()} KRW</span>
+              </div>
+              {f.desc && <p class="text-xs mt-1 leading-relaxed" style="color: var(--text-secondary);">{f.desc}</p>}
+              <div class="mt-2 flex items-center gap-2 hidden" data-qty-wrap>
+                <button type="button" class="w-7 h-7 rounded-lg border text-lg leading-none select-none" style="border-color: var(--border-color); color: var(--text-primary);" data-dec aria-label="decrease">−</button>
+                <span class="w-6 text-center text-sm tabular-nums" data-qty style="color: var(--text-primary);">1</span>
+                <button type="button" class="w-7 h-7 rounded-lg border text-lg leading-none select-none" style="border-color: var(--border-color); color: var(--text-primary);" data-inc aria-label="increase">+</button>
+                <span class="text-xs" style="color: var(--text-muted);">{c.quantityLabel}</span>
+              </div>
+            </div>
+          </label>
+        ))}
+      </div>
+
+      <div class="mt-6 rounded-2xl p-5 border flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4" style="background: color-mix(in srgb, var(--accent) 10%, transparent); border-color: color-mix(in srgb, var(--accent) 30%, transparent);">
+        <div>
+          <p class="text-sm" style="color: var(--text-secondary);">{c.totalLabel}</p>
+          <p class="text-3xl font-bold leading-none mt-1" style="color: var(--text-primary);"><span id="calc-total-krw">0</span> <span class="text-base font-medium" style="color: var(--text-muted);">{c.krwLabel}</span></p>
+          <p class="text-sm mt-1" style="color: var(--text-secondary);"><span id="calc-total-cny">0</span> {c.cnyLabel} · <span id="calc-total-usd">0</span> {c.usdLabel}</p>
+        </div>
+        <button type="button" id="calc-reset" class="btn-cta btn-cta-secondary shrink-0">{c.reset}</button>
+      </div>
+
+      {c.note && <p class="text-xs leading-relaxed mt-4" style="color: var(--text-muted);">{c.note}</p>}
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+  (function () {
+    var section = document.getElementById('calculator');
+    if (!section) return;
+    var KRW_PER_CNY = 190;
+    var KRW_PER_USD = 1380;
+    var checkboxes = Array.from(section.querySelectorAll('input[type="checkbox"][data-id]'));
+    var totalKrwEl = section.querySelector('#calc-total-krw');
+    var totalCnyEl = section.querySelector('#calc-total-cny');
+    var totalUsdEl = section.querySelector('#calc-total-usd');
+    var qtyMap = {};
+
+    function fmt(n) { return Math.round(n).toLocaleString(); }
+
+    function recalc() {
+      var total = 0;
+      checkboxes.forEach(function (cb) {
+        if (cb.checked) {
+          var price = Number(cb.getAttribute('data-price')) || 0;
+          total += price * (qtyMap[cb.getAttribute('data-id')] || 1);
+        }
+      });
+      totalKrwEl.textContent = fmt(total);
+      totalCnyEl.textContent = fmt(total / KRW_PER_CNY);
+      totalUsdEl.textContent = fmt(total / KRW_PER_USD);
+    }
+
+    checkboxes.forEach(function (cb) {
+      var wrap = cb.closest('[data-food]').querySelector('[data-qty-wrap]');
+      cb.addEventListener('change', function () {
+        var id = cb.getAttribute('data-id');
+        if (cb.checked) {
+          qtyMap[id] = qtyMap[id] || 1;
+          wrap.classList.remove('hidden');
+        } else {
+          delete qtyMap[id];
+          wrap.classList.add('hidden');
+        }
+        recalc();
+      });
+
+      wrap.querySelector('[data-inc]').addEventListener('click', function () {
+        var id = cb.getAttribute('data-id');
+        qtyMap[id] = Math.min((qtyMap[id] || 1) + 1, 20);
+        wrap.querySelector('[data-qty]').textContent = qtyMap[id];
+        recalc();
+      });
+      wrap.querySelector('[data-dec]').addEventListener('click', function () {
+        var id = cb.getAttribute('data-id');
+        qtyMap[id] = Math.max((qtyMap[id] || 1) - 1, 1);
+        wrap.querySelector('[data-qty]').textContent = qtyMap[id];
+        recalc();
+      });
+    });
+
+    section.querySelector('#calc-reset').addEventListener('click', function () {
+      checkboxes.forEach(function (cb) {
+        cb.checked = false;
+        cb.closest('[data-food]').querySelector('[data-qty-wrap]').classList.add('hidden');
+      });
+      qtyMap = {};
+      recalc();
+    });
+
+    recalc();
+  })();
+</script>

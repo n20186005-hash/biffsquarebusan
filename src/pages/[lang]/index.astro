@@ -5,7 +5,7 @@ import SectionNav from '../../components/SectionNav.astro';
 import Hero from '../../components/Hero.astro';
 import QuickFactsDashboard from '../../components/QuickFactsDashboard.astro';
 import ComplianceGuide from '../../components/ComplianceGuide.astro';
-import HigashiyamaRoute from '../../components/HigashiyamaRoute.astro';
+import RouteSequence from '../../components/RouteSequence.astro';
 import Intro from '../../components/Intro.astro';
 import Transport from '../../components/Transport.astro';
 import Lodging from '../../components/Lodging.astro';
@@ -17,6 +17,8 @@ import HiddenRules from '../../components/HiddenRules.astro';
 import Reviews from '../../components/Reviews.astro';
 import MapEmbed from '../../components/MapEmbed.astro';
 import DeepDive from '../../components/DeepDive.astro';
+import HistoryTimeline from '../../components/HistoryTimeline.astro';
+import BudgetCalculator from '../../components/BudgetCalculator.astro';
 import FAQ from '../../components/FAQ.astro';
 import { getI18n, languagesList } from '../../i18n/ui';
 
@@ -50,10 +52,12 @@ const faqLd = (() => {
   <Hero />
   <QuickFactsDashboard />
   <Intro />
+  <HistoryTimeline />
   <HumanitiesDossier />
   <DeepDive />
   <Transport />
-  <HigashiyamaRoute />
+  <RouteSequence />
+  <BudgetCalculator />
   <HiddenRules />
   <ComplianceGuide />
   <Lodging />

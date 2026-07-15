@@ -1,0 +1,33 @@
+---
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const t = messages.timeline;
+const items = t.items ?? [];
+---
+
+<section id="timeline" class="section-padding" style="background: var(--bg-primary);">
+  <div class="max-w-4xl mx-auto px-4">
+    <div class="max-w-3xl mx-auto text-center mb-12">
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3" style="color: var(--text-primary);">{t.title}</h2>
+      {t.subtitle && <p class="text-base sm:text-lg leading-relaxed" style="color: var(--text-secondary);">{t.subtitle}</p>}
+    </div>
+
+    <ol class="relative border-l-2 ml-3 sm:ml-4" style="border-color: color-mix(in srgb, var(--accent) 35%, transparent);">
+      {items.map((it) => (
+        <li class="mb-10 ml-6 sm:ml-10 relative">
+          <span class="absolute -left-[34px] sm:-left-[50px] flex items-center justify-center w-12 h-12 rounded-full text-sm font-bold shadow-sm" style="background: var(--accent); color: #fff;">
+            {it.year}
+          </span>
+          <div class="rounded-2xl p-6 border" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+            <div class="flex flex-wrap items-center gap-2 mb-2">
+              {it.era && <span class="text-xs font-medium px-2.5 py-1 rounded-full" style="background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent);">{it.era}</span>}
+              {it.tag && <span class="text-xs uppercase tracking-[0.18em]" style="color: var(--text-muted);">{it.tag}</span>}
+            </div>
+            <h3 class="font-display text-xl sm:text-2xl font-semibold mb-2" style="color: var(--text-primary);">{it.title}</h3>
+            <p class="text-base leading-relaxed" style="color: var(--text-secondary);">{it.text}</p>
+          </div>
+        </li>
+      ))}
+    </ol>
+  </div>
+</section>

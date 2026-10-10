@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Legal/utility pages are kept indexable-off via <meta name="robots" content="noindex">,
+# so they are intentionally excluded from the sitemap.
+Sitemap: https://biffsquarebusan.com/sitemap.xml

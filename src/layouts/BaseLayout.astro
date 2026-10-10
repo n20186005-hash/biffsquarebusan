@@ -10,13 +10,15 @@ interface Props {
   title: string;
   description: string;
   path?: string;
+  noIndex?: boolean;
+  alternatesOverride?: Record<string, string>;
 }
 
-const { title, description, path = '' } = Astro.props;
+const { title, description, path = '', noIndex = false, alternatesOverride } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const htmlLang = htmlLangAttr(lang);
-const alts = buildAlternates(path);
-const canonical = alts[lang] ?? alts.zh;
+const alts = alternatesOverride ?? buildAlternates(path);
+const canonical = alts[lang] ?? alts.en ?? alts.zh;
 const { messages } = getI18n(Astro.url);
 
 const officialSameAs = [
@@ -67,7 +69,8 @@ const jsonLd = {
   aggregateRating: {
     '@type': 'AggregateRating',
     ratingValue: '4.1',
-    reviewCount: '19981',
+    reviewCount: '20220',
+    // Synced from Google Maps listing, October 2026.
   },
   sameAs: officialSameAs,
 };
@@ -94,6 +97,7 @@ const jsonLd = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {noIndex && <meta name="robots" content="noindex" />}
     <link rel="alternate" hreflang="zh" href={alts.zh} />
     <link rel="alternate" hreflang="en" href={alts.en} />
     <link rel="alternate" hreflang="ja" href={alts.ja} />

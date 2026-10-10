@@ -1,8 +1,9 @@
 {
   "meta": {
-    "title": "BIFF Square (BIFF광장) | Jung-gu, Busan · Home of the Busan International Film Festival & Star Road",
-    "description": "The complete guide to BIFF Square (BIFF광장): a cinematic landmark in Nampo-dong, Jung-gu, Busan, right next to Gukje Market and Bosudong Bookstore Street. The Busan International Film Festival (then PIFF) was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road). It is the birthplace of the festival and the core stage of 'Community BIFF (community film festival)', as well as a beloved street-food spot (seed/nut sugar pancake, Ssiat Hotteok). Opening hours, how to get there, history, photo spots and visitor reviews — all in one place."
+    "title": "BIFF Square Busan – Street Food, Directions & Travel Guide",
+    "description": "Plan your visit to BIFF Square (BIFF광장) in Busan: street food, how to get there from Jagalchi Station, opening hours, the Star Road handprints and nearby Gukje Market. A complete non-profit visitor guide."
   },
+  "topicLinksNote": "available in English",
   "header": {
     "siteName": "BIFF Square",
     "home": "Home",
@@ -48,9 +49,9 @@
   "hero": {
     "title": "BIFF Square (BIFF광장)",
     "subtitle": "A cinematic urban landmark in Nampo-dong, Jung-gu, Busan. The Busan International Film Festival was founded here in 1996, and the square was redeveloped and renamed BIFF Square in 2011 as the festival's acronym changed. It is paved with the handprints and footprints of over a hundred film directors and actors (Star Road), and since the festival's main venue moved to Haeundae in 2011, it has become the festival's birthplace and the core stage of 'Community BIFF (community film festival)', as well as a beloved street-food spot (seed/nut sugar pancake, Ssiat Hotteok) — one of Korea's most representative film-themed street landmarks.",
-    "rating": "4.1 (19,981)",
-    "reviewCount": "19,981 reviews",
-    "hours": "Open 24 hours (public square)",
+    "rating": "4.1 (20,220)",
+    "reviewCount": "20,220 reviews",
+    "hours": "Open 24 hours (public square; stalls vary)",
     "openMaps": "View location on Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7",
     "tags": ["Film culture landmark", "Star Road of filmmakers", "Free · open public space"],
@@ -147,7 +148,7 @@
     "title": "Half-Day Route · Closed Loop",
     "subtitle": "Not just 'who it suits', but a strongly logical closed loop you can follow directly: from filmmakers' handprints, to the landmark arch, then to street food and the old-book street — a complete 'film + everyday' package in half a day.",
     "steps": [
-      { "title": "Star Road & directors' handprints", "meta": "≈40 min · best light", "text": "Exit Nampo Station (Subway Line 1), Exit 7, head straight to the main entrance, and in the soft morning or dusk light look for the handprint plates of international auteurs such as Hou Hsiao-hsien, Akira Kurosawa and Takeshi Kitano.", "tips": ["Star Road is open and level; morning and dusk light are best with fewer crowds.", "The handprint plates are embedded in the pavement; crouch low for better composition."] },
+      { "title": "Star Road & directors' handprints", "meta": "≈40 min · best light", "text": "From Jagalchi Station (Busan Line 1), Exit 7, it's about a 3–5 min walk to the main entrance (Nampo Station, Exit 7 is about a 5 min walk as an alternative). In the soft morning or dusk light look for the handprint plates of international auteurs such as Hou Hsiao-hsien, Akira Kurosawa and Takeshi Kitano.", "tips": ["Star Road is open and level; morning and dusk light are best with fewer crowds.", "The handprint plates are embedded in the pavement; crouch low for better composition."] },
       { "title": "Photo stop: BIFF landmark arch", "meta": "≈20 min · classic frame", "text": "Take photos under the giant yellow semi-circular arch on the south side of the square, capturing the most Busan-film-street landmark view, framed together with the Star Road handprints.", "tips": ["The arch is the square's most photogenic spot; queue courteously.", "For backlit shots, leave negative space with the arch silhouette."] },
       { "title": "Taste break: seed pancake & fish cake", "meta": "≈45 min · Busan on the tongue", "text": "In front of the dense red-and-yellow umbrella stalls at the center of the square, queue for a freshly fried 'seed/nut sugar pancake (Ssiat Hotteok)' — crisp outside, filled with sunflower and pumpkin seeds; pair it with a skewer of hot fish cake (Eomuk) for the authentic BIFF flavor.", "tips": ["Eat the seed pancake while hot; the filling can be scalding.", "The red-and-yellow umbrella stalls are an iconic image of Nampo-dong street food."] },
       { "title": "Cultural extension: market & bookstreet", "meta": "≈60 min · walkable", "text": "Head north across the main road into Gukje Market, then walk on to Bosudong Bookstore Street to explore the used-book and craft culture that has survived since the Korean War, collecting film narrative and urban memory together.", "tips": ["Market food is dense; graze lightly across many stalls.", "Bosudong Bookstreet's old books and film cameras are popular themes — best browsed slowly."] }
@@ -185,7 +186,7 @@
       "items": [
         "Best at dawn or dusk: Nampo-dong light is softest then, and handprints with the carpet frame best.",
         "Best viewpoints are the middle of Star Road and the BIFF marker wall.",
-        "About a 5 min walk from Nampo Station (Subway Line 1), Exit 7, to the square.",
+        "About a 3–5 min walk from Jagalchi Station (Busan Line 1), Exit 7, to the square (Nampo Station, Exit 7 is about a 5 min walk as an alternative).",
         "Almost no commercial supply at the square; water, restrooms and breaks are better in the surrounding district."
       ]
     },
@@ -205,28 +206,28 @@
     "title": "Transportation & Getting Here",
     "subtitle": "Combine arriving in Busan, city transfers, walking/cycling, parking and charging into one clear structure for planning your BIFF Square trip.",
     "overviewTitle": "After arriving in Busan",
-    "overviewText": "BIFF Square is at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street — a representative film-culture landmark of Busan. The easiest long-distance option is KTX from Seoul to Busan Station, about 2.5 hours; once in the city, it is about a 5 min walk from Nampo Station (Subway Line 1), Exit 7. BIFF Square sits in the Nampo-dong district and is reachable on foot from the station.",
+    "overviewText": "BIFF Square is at 58-1 Gudeok-ro, Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street — a representative film-culture landmark of Busan. The easiest long-distance option is KTX from Seoul to Busan Station, about 2.5 hours; once in the city, the closest subway is Jagalchi Station (Busan Line 1), Exit 7, about a 3–5 min walk. Nampo Station (Line 1), Exit 7 is also about a 5 min walk and works as an alternative approach.",
     "overviewText2": "BIFF Square is an open street corner with no gate. Plan transport, parking and walking together — especially with seniors, children or luggage, parking at a public lot then walking in saves a lot of hassle.",
     "arrivalTitle": "Remember before departure",
     "arrivalItems": [
-      "BIFF Square is in Nampo-dong; about a 5 min walk from Nampo Station (Subway Line 1), Exit 7.",
+      "BIFF Square is in Nampo-dong; the closest subway is Jagalchi Station (Busan Line 1), Exit 7, about a 3–5 min walk. Nampo Station (Line 1), Exit 7 is about a 5 min walk as an alternative.",
       "Several public parking lots surround the square; they fill fast on peak weekends — arrive early or prefer transit.",
       "Crowds are higher during the festival (October); strongly prefer public transit or off-peak visits."
     ],
     "modes": [
       {
-        "label": "Subway (Busan Line 1 · Nampo Stn)",
+        "label": "Subway (Busan Line 1 · Jagalchi Stn)",
         "icon": "🚇",
-        "title": "Subway direct to Nampo",
-        "description": "Easiest for most travelers; transfer to Busan Line 1 to Nampo Station from Busan Station or Seomyeon — the classic way to BIFF Square.",
+        "title": "Subway to Jagalchi (closest)",
+        "description": "Easiest for most travelers; transfer to Busan Line 1 to Jagalchi Station from Busan Station or Seomyeon — the closest subway to BIFF Square, about a 3–5 min walk from Exit 7.",
         "details": [
-          "From Busan Station take Busan Line 1 to Nampo Station, about 15–20 min.",
-          "Exit 7 of Nampo Station, follow district signs about 5 min walk to the square.",
-          "Use T-money / transit card for easy bus and taxi connections."
+          "From Busan Station take Busan Line 1 to Jagalchi Station, about 15–20 min.",
+          "Exit 7 of Jagalchi Station, follow district signs about 3–5 min walk to the square.",
+          "Nampo Station (Line 1), Exit 7 is also about a 5 min walk as an alternative approach."
         ],
         "steps": [
-          { "n": "1", "t": "Take Busan Line 1 to Nampo Station." },
-          { "n": "2", "t": "From Exit 7, follow district signs about 5 min." },
+          { "n": "1", "t": "Take Busan Line 1 to Jagalchi Station." },
+          { "n": "2", "t": "From Exit 7, follow district signs about 3–5 min." },
           { "n": "3", "t": "Reach Star Road and the BIFF marker wall." }
         ]
       },
@@ -247,13 +248,13 @@
         ]
       },
       {
-        "label": "Nampo Station (walk 5 min)",
+        "label": "Nampo Station (alt · walk 5 min)",
         "icon": "🚉",
-        "title": "Nearest station, hidden option",
-        "description": "Nampo Station is the closest subway to BIFF Square; a 5 min walk reaches Star Road — best for light packers who want to see it first.",
+        "title": "Alternative station",
+        "description": "Nampo Station (Busan Line 1), Exit 7 is about a 5 min walk to BIFF Square — a good alternative if you are already along Line 1 or coming from Nampo-dong shopping.",
         "details": [
           "Nampo Station is on Busan Line 1 with frequent trains.",
-          "From the platform, follow district signs about 5 min to the main sights.",
+          "From Exit 7, follow district signs about 5 min to the main sights.",
           "Dawn and weekdays are best to avoid transfer and tourist crowds."
         ],
         "steps": [
@@ -338,8 +339,8 @@
       { "q": "What is the nearest parking?", "a": "Nampo-dong public parking is about 100–300 m away, the closest to the square; the Gukje Market parking tower is about 200–500 m, more spaces but tight in peak." },
       { "q": "Is there roadside parking nearby?", "a": "Very little. Square roads are narrow and congested on holidays; use proper lots and public transit, no long roadside parking." },
       { "q": "Is driving recommended for BIFF Square?", "a": "Unless parking is essential, driving is not advised. Weekends and festival time are very congested; walking or transit is smoother. If driving, park at a surrounding lot then walk in." },
-      { "q": "Do you recommend public transit?", "a": "Strongly. Take Busan Line 1 to Nampo Station, then walk about 5 min to the square. Address: 58-1 Gudeok-ro, Jung-gu, Busan, South Korea." },
-      { "q": "What is the best way to get here?", "a": "For stability and ease, transit is still best: Busan Line 1 to Nampo Station, walk in. If you must drive, treat parking and transfer as part of the trip, not 'park at the door'." }
+      { "q": "Do you recommend public transit?", "a": "Strongly. Take Busan Line 1 to Jagalchi Station, Exit 7, then walk about 3–5 min to the square (Nampo Station, Exit 7 is about a 5 min walk as an alternative). Address: 58-1 Gudeok-ro, Jung-gu, Busan, South Korea." },
+      { "q": "What is the best way to get here?", "a": "For stability and ease, transit is still best: Busan Line 1 to Jagalchi Station, Exit 7, walk in. If you must drive, treat parking and transfer as part of the trip, not 'park at the door'." }
     ],
     "localTipsTitle": "Practical tips",
     "localTips": [
@@ -512,6 +513,7 @@
     "featuredSubtitle": "A few short lines that capture BIFF Square's character.",
     "moreReviews": "View on Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/tCW3sCK7uSse6LtG7",
+    "aggregateNote": "Google Maps · checked October 2026",
     "featured": [
       {
         "text": "Handprints of over a hundred filmmakers fill the pavement — on one side vivid film glory, on the other intimate everyday bustle. So photogenic.",
@@ -524,32 +526,6 @@
       {
         "text": "With kids slowly along Star Road, he kept finding familiar stars' handprints, and the seniors were at ease too.",
         "source": "Family · Daejeon"
-      }
-    ],
-    "items": [
-      {
-        "name": "Minjun",
-        "date": "May 2026",
-        "rating": 5,
-        "text": "Visited at dawn; the handprint plates are super photogenic in backlight, and the moment in front of the carpet marker was silent — strongly recommend dusk, best light."
-      },
-      {
-        "name": "Seoyeon",
-        "date": "Apr 2026",
-        "rating": 5,
-        "text": "Star Road's composition is striking; about a 5 min walk from Nampo Station. Busan is by the sea with strong wind, bring a jacket."
-      },
-      {
-        "name": "Jihoon",
-        "date": "Mar 2026",
-        "rating": 4,
-        "text": "Worth it as a free public space; weekends get crowded, weekdays or early morning are more comfortable."
-      },
-      {
-        "name": "Ha-eun",
-        "date": "Feb 2026",
-        "rating": 5,
-        "text": "About a 5 min walk from Nampo Station to Star Road; the district along the way is pleasant, good for a half-day stroll."
       }
     ]
   },
@@ -864,5 +840,241 @@
       "Before booking, confirm breakfast, parking and EV chargers (drivers especially).",
       "Book ahead in peak season and holidays to avoid no rooms or high prices."
     ]
+  },
+  "topics": {
+    "streetFood": {
+      "title": "BIFF Square Street Food – What to Eat & Prices",
+      "description": "Ssiat Hotteok, tteokbokki and more: a guide to BIFF Square street food in Busan — what to eat, typical prices and where the stalls are.",
+      "breadcrumb": "Street Food",
+      "h1": "BIFF Square Street Food: Ssiat Hotteok & More",
+      "intro": "BIFF Square and the surrounding Nampo-dong food alley are among Busan's best-known street-food spots. The signature is Ssiat Hotteok (씨앗호떡), a seed-and-nut sugar pancake, but the lane is packed with tteokbokki, eomuk (fish cake), gyeran-ppang, twigim and more. Hours vary by vendor — most stalls run from late morning into the evening, with the liveliest scene after sunset.",
+      "sections": [
+        {
+          "heading": "Ssiat Hotteok — the signature",
+          "body": "Ssiat Hotteok is a Busan twist on the classic hotteok: a flat fried pancake filled with brown sugar, stuffed with assorted seeds and nuts (ssiat means 'seeds'). It is crisp outside, chewy inside and only mildly sweet — the item most visitors come for.",
+          "bullets": [
+            "Look for long queues at the better-known stalls; turnover keeps them fresh and hot.",
+            "Best eaten fresh off the griddle while the filling is still molten."
+          ]
+        },
+        {
+          "heading": "Other street foods to try",
+          "body": "The same alley sells the usual Korean street-food line-up, handy for a walking tasting route.",
+          "bullets": [
+            "Tteokbokki (떡볶이) — spicy rice cakes, often with fish cake and noodles.",
+            "Eomuk / odeng (어묵) — fish-cake skewers in warm broth, great in cool weather.",
+            "Gyeran-ppang (계란빵) — warm egg-in-bread, popular with kids.",
+            "Twigim (튀김) — assorted fried seafood and vegetables."
+          ]
+        },
+        {
+          "heading": "Where the stalls are",
+          "body": "Stalls cluster along the BIFF Square / Nampo-dong food street and the lanes toward Gukje Market. The square itself is an open corner; the eating happens in the surrounding district a few steps away."
+        },
+        {
+          "heading": "Prices & paying",
+          "body": "Street food here is cheap and cash-friendly; many stalls prefer cash, though card readers are common.",
+          "bullets": [
+            "Ssiat Hotteok: roughly ₩1,000–₩2,000 each.",
+            "Tteokbokki / eomuk: roughly ₩1,000–₩3,000 per portion.",
+            "Carry small cash; peak queues move faster with exact change."
+          ]
+        }
+      ],
+      "faq": [
+        { "q": "What is the most famous food at BIFF Square?", "a": "Ssiat Hotteok (씨앗호떡), the seed-and-nut sugar pancake — the item most travelers come for and the most photographed snack on the street." },
+        { "q": "How much does street food cost?", "a": "It is inexpensive: a Ssiat Hotteok is roughly ₩1,000–₩2,000, tteokbokki or eomuk about ₩1,000–₩3,000 per portion. Bring small cash for faster queues." },
+        { "q": "Are there vegetarian options?", "a": "Yes — Ssiat Hotteok, gyeran-ppang and plain eomuk broth are vegetarian-friendly, while tteokbokki and twigim may contain fish sauce or seafood. Ask the vendor if unsure." },
+        { "q": "What are the best hours to eat here?", "a": "Stalls usually open late morning and run into the evening, with the busiest, liveliest atmosphere after sunset. Weekdays are calmer than festival or weekend nights." },
+        { "q": "Is the food safe to eat?", "a": "The alley is a long-established, high-turnover food street. Choose busy stalls with steady customers, eat items fresh and hot, and watch the usual street-food hygiene basics." }
+      ]
+    },
+    "gettingThere": {
+      "title": "How to Get to BIFF Square (Busan) – Subway, Airport & Parking",
+      "description": "Directions to BIFF Square in Busan: nearest subway (Jagalchi Station Exit 7), from Busan Station KTX, Gimhae Airport, by bus, taxi and car parking.",
+      "breadcrumb": "Getting There",
+      "h1": "How to Get to BIFF Square",
+      "intro": "BIFF Square sits in Nampo-dong, Jung-gu, Busan, next to Gukje Market and Bosudong Bookstore Street. The closest subway is Jagalchi Station (Busan Line 1), Exit 7, about a 3–5 min walk; Nampo Station (Line 1), Exit 7 is about a 5 min walk as an alternative.",
+      "sections": [
+        {
+          "heading": "By subway (closest)",
+          "body": "For most travelers the subway is easiest. Take Busan Line 1 to Jagalchi Station and use Exit 7; follow the district signs about 3–5 min to the square. Nampo Station, Exit 7 is about a 5 min walk if you are already along Line 1.",
+          "bullets": [
+            "From Busan Station: Busan Line 1 to Jagalchi Station, about 15–20 min.",
+            "From Seomyeon: Busan Line 1 direct, about 10–15 min.",
+            "Use a T-money / transit card for easy transfers."
+          ]
+        },
+        {
+          "heading": "From Busan Station (KTX)",
+          "body": "From Seoul, the KTX to Busan Station takes about 2.5 hours. At Busan Station change to Busan Line 1 and ride to Jagalchi Station, then walk about 3–5 min.",
+          "bullets": [
+            "Busan Station → Jagalchi Station: about 15–20 min by subway.",
+            "Taxis from Busan Station to BIFF Square take roughly 10–20 min depending on traffic."
+          ]
+        },
+        {
+          "heading": "From Gimhae Airport",
+          "body": "Gimhae International Airport (PUS) links to the subway via the Busan–Gimhae Light Rail. Transfer to Busan Line 1 and ride to Jagalchi Station.",
+          "bullets": [
+            "Light Rail to Sasang, then Busan Line 1 toward Jagalchi: about 40–60 min total.",
+            "Airport taxis / limousine buses are alternatives if you have heavy luggage."
+          ]
+        },
+        {
+          "heading": "By bus, taxi and car",
+          "body": "City and intercity buses stop near Nampo-dong; taxis can drop you at the district edge. Several public and mall parking lots surround the square (Nampo-dong public lot, Gukje Market tower), mostly paid and busy on weekends — arrive early or prefer transit.",
+          "bullets": [
+            "Parking fills fast on peak weekends; transit is strongly recommended.",
+            "During the October festival, crowds peak — prefer off-peak visits."
+          ]
+        }
+      ],
+      "faq": [
+        { "q": "What is the nearest station to BIFF Square?", "a": "Jagalchi Station (Busan Line 1), Exit 7, about a 3–5 min walk. Nampo Station (Line 1), Exit 7 is about a 5 min walk as an alternative." },
+        { "q": "How do I get there from Gimhae Airport?", "a": "Take the Busan–Gimhae Light Rail and transfer to Busan Line 1 toward Jagalchi Station, about 40–60 min total; taxis and limousine buses are alternatives with luggage." },
+        { "q": "Is there parking, and what does it cost?", "a": "Several public and mall lots surround the square (Nampo-dong public lot, Gukje Market tower), mostly paid. They fill fast on peak weekends — arrive early or use transit." },
+        { "q": "What is the best way to arrive?", "a": "For stability and ease, the subway to Jagalchi Station, Exit 7, then a short walk is best. If driving, treat parking and transfer as part of the trip rather than 'park at the door'." },
+        { "q": "Can I walk from Busan Station?", "a": "It is a long walk; take Busan Line 1 from Busan Station to Jagalchi Station (about 15–20 min) and walk the last few minutes instead." }
+      ]
+    },
+    "visitingGuide": {
+      "title": "BIFF Square Visiting Guide – Opening Hours, Best Time & What to See",
+      "description": "Plan your BIFF Square visit: the square is open 24 hours (stalls vary), best time to visit, how long to stay, what to see and visitor tips.",
+      "breadcrumb": "Visiting Guide",
+      "h1": "BIFF Square Visiting Guide",
+      "intro": "BIFF Square is an open public space next to Gukje Market in Nampo-dong, Jung-gu, Busan. The public square area is open 24 hours year-round, but food stalls and shops keep their own hours — typically late morning to evening, busiest after sunset. There is no gate, ticket or reservation.",
+      "sections": [
+        {
+          "heading": "Opening hours",
+          "body": "The public square is open 24 hours and free to enter. Stalls and shops set their own hours and many close late at night or on quiet weekdays — don't expect every stall at dawn or after midnight.",
+          "bullets": [
+            "Public square access: open 24 hours, year-round.",
+            "Food stalls & shops: hours vary by vendor (often late morning–evening)."
+          ]
+        },
+        {
+          "heading": "Best time to visit",
+          "body": "Daytime is good for photos and a relaxed stroll; evening is liveliest for street food and neon. The Busan International Film Festival (usually October) brings the biggest crowds and events.",
+          "bullets": [
+            "Quietest: weekday mornings.",
+            "Most atmospheric: after sunset, especially for food.",
+            "Busiest: festival period and weekend nights."
+          ]
+        },
+        {
+          "heading": "How long to stay",
+          "body": "A relaxed visit is about 1–2 hours, including Star Road and photo stops. Add Gukje Market, Bosudong Bookstreet or Yongdusan Park and it becomes a half-day culture route."
+        },
+        {
+          "heading": "What to see & etiquette",
+          "body": "Walk Star Road for the director and actor handprints, find the red-carpet marker, and enjoy the Nampo-dong neon. Keep to open paths, respect the handprint plates, and keep late-night noise down.",
+          "bullets": [
+            "Star Road handprints — the square's signature sight.",
+            "Red-carpet marker and BIFF marker wall.",
+            "Nampo-dong district for food and shopping right next door."
+          ]
+        }
+      ],
+      "faq": [
+        { "q": "What are BIFF Square's opening hours?", "a": "The public square is open 24 hours, year-round and free. Food stalls and shops keep their own hours and many close late at night or on quiet weekdays." },
+        { "q": "Is BIFF Square free to enter?", "a": "Yes. It is an open public space with no gate, ticket or reservation — visit any time, and keep late-night noise low out of respect for the neighborhood." },
+        { "q": "How long should I plan for?", "a": "About 1–2 hours for the square itself; a half day if you add Gukje Market, Bosudong Bookstreet or Yongdusan Park." },
+        { "q": "When is the best time to visit?", "a": "Weekday mornings are quietest; after sunset is liveliest for food and neon. The October film festival brings the biggest crowds." },
+        { "q": "Can I visit during the Busan International Film Festival?", "a": "Yes — that is when BIFF Square is most active, with events and crowds. Expect heavy foot traffic and arrive early or off-peak for a calmer look." }
+      ]
+    },
+    "handprints": {
+      "title": "BIFF Square Handprints & History – Star Road & the BIFF/PIFF Story",
+      "description": "The Star Road handprints at BIFF Square: whose handprints are on the pavement, plus the history of BIFF Square and the Busan International Film Festival.",
+      "breadcrumb": "Handprints & History",
+      "h1": "Handprints & History of BIFF Square",
+      "intro": "Star Road at BIFF Square is paved with the handprints and footprints of over a hundred film directors and actors — one of Busan's most recognizable film landmarks. The square's story is tied to the Busan International Film Festival, founded here in 1996.",
+      "sections": [
+        {
+          "heading": "The Star Road handprints",
+          "body": "The pavement holds handprint (and some footprint) plates of Korean and international filmmakers. Among the names are directors such as Hou Hsiao-hsien, Akira Kurosawa and Takeshi Kitano, alongside Korean auteurs — a fan pilgrimage spot embedded in the street.",
+          "bullets": [
+            "Over 100 filmmakers' handprints are set into Star Road.",
+            "Plates are embedded in the pavement; crouch low for better photos.",
+            "Dawn and dusk light are best and the crowds are thinnest."
+          ]
+        },
+        {
+          "heading": "History of the square",
+          "body": "The Busan International Film Festival (then PIFF) was founded in 1996, and this Nampo-dong corner became its birthplace. As the festival's acronym changed from PIFF to BIFF, the area was redeveloped and renamed BIFF Square in 2011 — a Korean film-culture landmark.",
+          "bullets": [
+            "1996: Busan International Film Festival (PIFF) founded; this corner is its birthplace.",
+            "2011: area redeveloped and renamed BIFF Square as PIFF became BIFF.",
+            "Today: core stage of 'Community BIFF' and a free public film landmark."
+          ]
+        },
+        {
+          "heading": "BIFF vs PIFF",
+          "body": "Both refer to the same festival. 'PIFF' was the original name (Pusan International Film Festival); the city's romanization changed from Pusan to Busan and the festival became BIFF. The square name follows the current BIFF branding."
+        },
+        {
+          "heading": "What to see",
+          "body": "Beyond the handprints, look for the red-carpet marker and the BIFF marker wall, then link the surrounding market and harbor for the full 'film and city' story.",
+          "bullets": [
+            "Red-carpet marker — the square's most recognizable photo spot.",
+            "BIFF marker wall and Nampo-dong neon.",
+            "Gukje Market and Bosudong Bookstreet next door."
+          ]
+        }
+      ],
+      "faq": [
+        { "q": "Whose handprints are on Star Road?", "a": "Over a hundred Korean and international film directors and actors, including names such as Hou Hsiao-hsien, Akira Kurosawa and Takeshi Kitano, alongside Korean auteurs." },
+        { "q": "When was BIFF Square built / renamed?", "a": "The Busan International Film Festival was founded here in 1996; the area was redeveloped and renamed BIFF Square in 2011 as the festival changed from PIFF to BIFF." },
+        { "q": "What is the difference between BIFF and PIFF?", "a": "They are the same festival. PIFF was the original name (Pusan International Film Festival); after the city's name changed to Busan, the festival became BIFF. The square follows the current BIFF name." },
+        { "q": "Is it free to see the handprints?", "a": "Yes. Star Road is an open public space — the handprint plates are free to view any time, day or night." },
+        { "q": "How many handprints are there?", "a": "Over 100 filmmakers' handprints are set into Star Road, making it one of Busan's most photographed film landmarks." }
+      ]
+    },
+    "nearby": {
+      "title": "Things to Do Near BIFF Square – Gukje Market, Jagalchi & More",
+      "description": "Near BIFF Square in Busan: Gukje Market, Bosudong Bookstore Street, the 40 Steps, Yongdusan Park & Busan Tower, and Nampo-dong — a half-day culture route.",
+      "breadcrumb": "Nearby Attractions",
+      "h1": "Things to Do Near BIFF Square",
+      "intro": "BIFF Square is the hub of a walkable Nampo-dong culture cluster. Within a few minutes you can reach Gukje Market, Bosudong Bookstore Street, the 40 Steps, Yongdusan Park and Busan Tower, and Jagalchi Market — easy to string into a half-day route.",
+      "sections": [
+        {
+          "heading": "Gukje Market (국제시장)",
+          "body": "A historic market next to BIFF Square, known for food, goods and the 'memory lane' of old Busan. Great to combine with the square for a food-and-history walk."
+        },
+        {
+          "heading": "Bosudong Bookstore Street (보수동 책방골목)",
+          "body": "A short walk away, this lane of used-bookshops and crafts is a calm, photogenic counterpoint to the busy square — good for gifts and quiet browsing."
+        },
+        {
+          "heading": "40 Steps (40계단)",
+          "body": "A modern-history landmark tied to the Korean War refugee era, a few minutes from the square. Simple stairs, but loaded with local memory and signage."
+        },
+        {
+          "heading": "Yongdusan Park & Busan Tower (용두산공원)",
+          "body": "A hilltop park above Nampo-dong with the Busan Tower and harbor-night views, about a 10–15 min walk. A natural end point for a half-day route."
+        },
+        {
+          "heading": "Nampo-dong & Jagalchi Market",
+          "body": "Nampo-dong is the shopping-and-food spine around the square; Jagalchi Market, Busan's famous seafood market, is a further walk or short subway hop toward Jagalchi Station."
+        },
+        {
+          "heading": "Sample half-day route",
+          "body": "Start at BIFF Square (handprints + carpet), cross to Gukje Market for food, wander Bosudong Bookstreet, climb toward Yongdusan Park / Busan Tower for the view, and loop back through Nampo-dong for dinner.",
+          "bullets": [
+            "All on foot except the optional Jagalchi Market leg.",
+            "Flat Nampo-dong district — easy with strollers and wheelchairs.",
+            "Allow 4–6 hours with food and photos."
+          ]
+        }
+      ],
+      "faq": [
+        { "q": "What is worth visiting near BIFF Square?", "a": "Gukje Market, Bosudong Bookstore Street, the 40 Steps, Yongdusan Park & Busan Tower, and Nampo-dong — all walkable, plus Jagalchi Market a bit farther." },
+        { "q": "Can I walk everything on foot?", "a": "Yes. Nampo-dong is flat and the core cluster (BIFF Square, Gukje Market, Bosudong, 40 Steps, Yongdusan) is walkable; Jagalchi Market is a longer walk or a short subway hop." },
+        { "q": "Is it family-friendly?", "a": "Very. The district is flat and stroller/wheelchair friendly, with food, markets and an easy hilltop park view — good for a relaxed half day." },
+        { "q": "How long for the whole nearby route?", "a": "About 4–6 hours with food and photos if you include Yongdusan Park and a Nampo-dong dinner." },
+        { "q": "Should I combine it with Jagalchi Market?", "a": "Only if you like seafood markets — Jagalchi is a further walk or short subway ride from Jagalchi Station, best added as an optional leg." }
+      ]
+    }
   }
 }

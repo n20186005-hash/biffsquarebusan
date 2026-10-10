@@ -1,0 +1,121 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getI18n } from '../i18n/ui';
+
+interface TopicMeta {
+  slug: string;
+  key: string;
+}
+
+const TOPIC_ORDER: TopicMeta[] = [
+  { slug: 'street-food', key: 'streetFood' },
+  { slug: 'how-to-get-there', key: 'gettingThere' },
+  { slug: 'visiting-guide', key: 'visitingGuide' },
+  { slug: 'handprints-history', key: 'handprints' },
+  { slug: 'nearby-attractions', key: 'nearby' },
+];
+
+interface Props {
+  topicKey: string;
+}
+
+const { topicKey } = Astro.props;
+const { messages } = getI18n(Astro.url);
+const topic = messages.topics[topicKey];
+const meta = TOPIC_ORDER.find((t) => t.key === topicKey)!;
+const canonical = `https://biffsquarebusan.com/en/${meta.slug}/`;
+const homeUrl = 'https://biffsquarebusan.com/en/';
+
+const breadcrumbItems = [
+  { name: messages.meta.title, url: homeUrl },
+  { name: topic.breadcrumb, url: canonical },
+];
+
+const otherTopics = TOPIC_ORDER.filter((t) => t.key !== topicKey);
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems.map((b, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: b.name,
+    item: b.url,
+  })),
+};
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: topic.faq.map((f: { q: string; a: string }) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const alternatesOverride = { en: canonical, xDefault: canonical };
+---
+
+<BaseLayout title={topic.title} description={topic.description} path={`en/${meta.slug}`} alternatesOverride={alternatesOverride}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+
+  <article class="section-padding" style="background: var(--bg-secondary);">
+    <div class="max-w-3xl mx-auto px-4">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <div class="max-w-3xl mx-auto px-4">
+          <ol class="breadcrumb-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a href={homeUrl} itemprop="item"><span itemprop="name">{messages.header.home}</span></a>
+              <meta itemprop="position" content="1" />
+            </li>
+            <li class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <span itemprop="name">{topic.breadcrumb}</span>
+              <meta itemprop="position" content="2" />
+            </li>
+          </ol>
+        </div>
+      </nav>
+
+      <h1 class="font-display text-3xl sm:text-4xl md:text-5xl font-bold mt-4 mb-4" style="color: var(--text-primary);">{topic.h1}</h1>
+      <p class="text-lg leading-relaxed mb-10" style="color: var(--text-secondary);">{topic.intro}</p>
+
+      {topic.sections.map((s: { heading: string; body: string; bullets?: string[] }) => (
+        <section class="mb-10">
+          <h2 class="font-display text-2xl font-semibold mb-3" style="color: var(--text-primary);">{s.heading}</h2>
+          <p class="leading-relaxed" style="color: var(--text-secondary);">{s.body}</p>
+          {s.bullets && s.bullets.length > 0 && (
+            <ul class="mt-3 space-y-1 list-disc pl-6" style="color: var(--text-secondary);">
+              {s.bullets.map((b: string) => <li>{b}</li>)}
+            </ul>
+          )}
+        </section>
+      ))}
+
+      <section class="mb-10">
+        <h2 class="font-display text-2xl font-semibold mb-4" style="color: var(--text-primary);">{messages.faq.title}</h2>
+        <div class="space-y-3">
+          {topic.faq.map((f: { q: string; a: string }) => (
+            <details class="rounded-xl border p-4" style="background: var(--card-bg); border-color: var(--border-color);">
+              <summary class="font-semibold cursor-pointer" style="color: var(--text-primary);">{f.q}</summary>
+              <p class="mt-2 leading-relaxed" style="color: var(--text-secondary);">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="rounded-2xl p-6 border" style="background: var(--bg-tertiary); border-color: var(--border-color);">
+        <h2 class="font-display text-xl font-semibold mb-3" style="color: var(--text-primary);">{messages.recommendations.attractionsTitle}</h2>
+        <div class="grid sm:grid-cols-2 gap-3">
+          {otherTopics.map((t) => (
+            <a href={`/en/${t.slug}/`} class="block rounded-xl px-4 py-3 border transition" style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary); text-decoration: none;">
+              {messages.topics[t.key].breadcrumb}
+            </a>
+          ))}
+        </div>
+        <a href={homeUrl} class="inline-block mt-4 font-semibold" style="color: var(--accent);">← {messages.header.home}</a>
+      </section>
+    </div>
+  </article>
+</BaseLayout>

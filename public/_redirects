@@ -1,1 +1,10 @@
+# Canonical host is the apex (non-www) with trailing slashes.
+# www -> apex (non-www) must be configured as a Cloudflare Redirect Rule:
+#   www.biffsquarebusan.com/*  ->  https://biffsquarebusan.com/$1  (301)
+# http -> https is handled automatically by Cloudflare "Always Use HTTPS".
+
 / /ko/ 302
+/en /en/ 301
+/zh /zh/ 301
+/ja /ja/ 301
+/ko /ko/ 301

@@ -1,0 +1,9 @@
+# Enforce HTTPS (HSTS) and basic security headers across the site.
+# Domain-level www -> apex redirect is configured in the Cloudflare dashboard
+# (Redirect Rules), not here.
+
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin

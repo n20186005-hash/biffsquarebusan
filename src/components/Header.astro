@@ -13,10 +13,10 @@ const switchTo = (l: string) => (pageSeg ? `/${l}/${pageSeg}` : `/${l}`);
 
 <header class="sticky top-0 z-50 backdrop-blur" style="background: color-mix(in srgb, var(--bg-primary) 85%, transparent); border-bottom: 1px solid var(--border-color);">
   <div class="max-w-6xl mx-auto px-4 min-h-16 py-3 flex items-center justify-between gap-3 md:gap-4">
-    <a href={`/${lang}`} class="font-display text-base sm:text-lg font-semibold leading-tight max-w-[11rem] sm:max-w-none" style="color: var(--text-primary);" set:html={h.siteName}></a>
+    <a href={`/${lang}/`} class="font-display text-base sm:text-lg font-semibold leading-tight max-w-[11rem] sm:max-w-none" style="color: var(--text-primary);" set:html={h.siteName}></a>
 
     <nav class="hidden md:flex items-center gap-4 text-sm lg:gap-5" style="color: var(--text-secondary);">
-      <a href={`/${lang}`} class="hover:opacity-70" set:html={h.home}></a>
+      <a href={`/${lang}/`} class="hover:opacity-70" set:html={h.home}></a>
       <a href={`/${lang}#visit`} class="hover:opacity-70" set:html={h.visit}></a>
       <a href={`/${lang}#transport`} class="hover:opacity-70" set:html={h.transport}></a>
       <a href={`/${lang}#lodging`} class="hover:opacity-70" set:html={h.lodging}></a>
@@ -55,7 +55,7 @@ const switchTo = (l: string) => (pageSeg ? `/${l}/${pageSeg}` : `/${l}`);
 
   <div id="mobile-menu" class="md:hidden hidden border-t px-4 py-4" style="border-color: var(--border-color); background: color-mix(in srgb, var(--bg-primary) 96%, transparent);">
     <nav class="grid grid-cols-2 gap-2 text-sm" style="color: var(--text-secondary);">
-      <a href={`/${lang}`} class="rounded-lg px-3 py-2 border hover:opacity-80" style="border-color: var(--border-color);" set:html={h.home}></a>
+      <a href={`/${lang}/`} class="rounded-lg px-3 py-2 border hover:opacity-80" style="border-color: var(--border-color);" set:html={h.home}></a>
       <a href={`/${lang}#visit`} class="rounded-lg px-3 py-2 border hover:opacity-80" style="border-color: var(--border-color);" set:html={h.visit}></a>
       <a href={`/${lang}#transport`} class="rounded-lg px-3 py-2 border hover:opacity-80" style="border-color: var(--border-color);" set:html={h.transport}></a>
       <a href={`/${lang}#lodging`} class="rounded-lg px-3 py-2 border hover:opacity-80" style="border-color: var(--border-color);" set:html={h.lodging}></a>

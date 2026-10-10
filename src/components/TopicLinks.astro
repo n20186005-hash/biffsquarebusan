@@ -1,0 +1,31 @@
+---
+import { getI18n } from '../i18n/ui';
+
+const { messages } = getI18n(Astro.url);
+
+// The in-depth guides live at /en/<slug>/ (English content).
+const topics = [
+  { slug: 'street-food', label: 'Street Food', desc: 'Ssiat Hotteok & the Nampo-dong food alley' },
+  { slug: 'how-to-get-there', label: 'How to Get There', desc: 'Jagalchi Station, KTX, airport, parking' },
+  { slug: 'visiting-guide', label: 'Visiting Guide', desc: 'Opening hours, best time, what to see' },
+  { slug: 'handprints-history', label: 'Handprints & History', desc: 'Star Road and the BIFF / PIFF story' },
+  { slug: 'nearby-attractions', label: 'Nearby Attractions', desc: 'Gukje Market, Bosudong, Yongdusan Park' },
+];
+---
+
+<section class="section-padding" style="background: var(--bg-primary);">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="font-display text-3xl font-semibold mb-2 text-center" style="color: var(--text-primary);">Travel Guides</h2>
+    <p class="text-center text-base mb-10" style="color: var(--text-secondary);">
+      In-depth guides to plan your visit — {messages.topicLinksNote ?? 'available in English'}.
+    </p>
+    <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+      {topics.map((t) => (
+        <a href={`/en/${t.slug}/`} class="block rounded-2xl p-5 border transition hover:-translate-y-0.5" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow); text-decoration: none;">
+          <h3 class="font-display text-lg font-semibold mb-1" style="color: var(--text-primary);">{t.label}</h3>
+          <p class="text-sm" style="color: var(--text-muted);">{t.desc}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
